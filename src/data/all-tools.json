@@ -1,0 +1,2435 @@
+[
+  {
+    "id": "surfer-seo",
+    "name": "SurferSEO",
+    "category": "marketing",
+    "tag": "paid",
+    "emoji": "📈",
+    "desc": "SurferSEO is an AI-powered platform that helps content creators optimize their pages for Google and AI search results. It provides a unified workflow for content planning, real-time optimization, and publishing.",
+    "page": "surfer-seo.html",
+    "details": {
+      "visitUrl": "https://surferseo.com",
+      "logoUrl": "",
+      "sections": {
+        "about": "SurferSEO is an all‑in‑one SEO toolkit that combines on‑page optimization, AI content generation, and analytics to improve visibility across Google, ChatGPT and other AI assistants. The platform guides users through content creation, from brief generation and keyword research to real‑time scoring, internal linking, and plagiarism checking, all within a single dashboard.",
+        "key_features": [
+          "Real‑time Content Score with NLP‑ready keywords, word count, structure and image suggestions",
+          "AI Content Generator that drafts ready‑to‑rank articles in minutes",
+          "Auto Internal Links that scan sites and insert relevant links automatically",
+          "AI Detector to differentiate human‑written from AI‑generated text",
+          "AI Humanizer that rewrites AI‑generated content to sound authentic",
+          "Plagiarism Checker for unique content verification",
+          "Content Planner and Content Editor for collaborative brief creation and editing",
+          "Workspaces to manage multiple domains without brand bleed",
+          "Integrations with Google Docs, WordPress, ChatGPT, Zapier, and more",
+          "Surfer API for programmatic access (add‑on)",
+          "Multilingual support for writing and optimizing in many languages"
+        ],
+        "use_cases": [
+          "Content creators needing fast, SEO‑optimized article drafts",
+          "SEOs and agencies looking for data‑driven on‑page recommendations",
+          "Marketing teams that want a unified workflow for multiple client sites",
+          "Publishers aiming to maintain content freshness and improve rankings",
+          "Multilingual teams requiring SEO guidance in various languages"
+        ],
+        "pros": [
+          "Real‑time, actionable optimization feedback",
+          "AI‑driven content generation saves time",
+          "Comprehensive suite covering writing, linking, scoring, and plagiarism",
+          "Strong community, tutorials, and extensive integrations",
+          "Supports multiple languages and custom guidelines"
+        ],
+        "cons": [
+          "Pricing starts at a paid tier, which may be high for freelancers",
+          "Advanced features like API access require additional add‑ons",
+          "Learning curve for teams unfamiliar with AI SEO tools"
+        ],
+        "pricing": "Freemium model with a free trial; paid plans start around $29 per month, with enterprise and API add‑ons available.",
+        "target_users": "Content creators, SEOs, digital marketing agencies, and publishing teams seeking AI‑enhanced SEO workflows."
+      }
+    }
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🤖",
+    "desc": "Claude is an advanced conversational AI that assists with writing, coding, research, and various creative tasks. It offers powerful language understanding and generation for individuals and teams.",
+    "page": "claude.html",
+    "details": {
+      "visitUrl": "https://claude.com/product/overview",
+      "logoUrl": "",
+      "sections": {
+        "about": "Claude is a powerful AI assistant that acts as a thinking partner, helping users tackle complex challenges, generate content, write code, and conduct research. The latest Opus 4.7 model provides state‑of‑the‑art language capabilities for a wide range of personal and professional use cases.",
+        "key_features": [
+          "Conversational AI with natural language understanding",
+          "Large language model supporting coding and debugging",
+          "Creative writing and content generation",
+          "Research assistance and summarization",
+          "File organization and task automation"
+        ],
+        "use_cases": [
+          "Content creation",
+          "Programming and software development",
+          "Academic research and study",
+          "Business writing and reports",
+          "Learning and tutoring"
+        ],
+        "pros": [
+          "Highly capable language model",
+          "Versatile across many tasks",
+          "User‑friendly interface",
+          "Fast response times"
+        ],
+        "cons": [
+          "Limited functionality on the free tier",
+          "Full features require a paid subscription",
+          "Occasional inaccuracies in responses"
+        ],
+        "pricing": "Offers a free tier with optional paid subscriptions for advanced features and higher usage limits.",
+        "target_users": "Writers, developers, students, researchers, and professionals seeking AI assistance for content creation, coding, research, and productivity tasks."
+      }
+    }
+  },
+  {
+    "id": "gumloop",
+    "name": "Gumloop",
+    "category": "autonomous",
+    "tag": "paid",
+    "emoji": "🤖",
+    "desc": "Gumloop is a platform for building and deploying AI agents that automate tasks across data, sales, support, and other domains. It enables teams to create, monitor, and orchestrate multi‑agent workflows with low‑code tools and integrates with Slack, Teams, Gmail, and other services.",
+    "page": "gumloop.html",
+    "details": {
+      "visitUrl": "https://www.gumloop.com",
+      "logoUrl": "",
+      "sections": {
+        "about": "Gumloop provides a platform for building specialized AI agents that automate tasks across data, sales, support, and other domains. Users can create, monitor, and orchestrate agents via a low‑code interface, integrate with communication and data tools, and benefit from enterprise‑grade security and compliance.",
+        "key_features": [
+          "Build agents in minutes with a low‑code interface",
+          "Multi‑agent orchestration for complex workflows",
+          "Integration with Slack, Microsoft Teams, Gmail, WhatsApp, and more",
+          "Support for internal and external data sources",
+          "Zero data retention and enterprise security compliance"
+        ],
+        "use_cases": [
+          "Data analysis and insight extraction from data warehouses",
+          "Support ticket triage and bug pattern detection",
+          "CRM deal management and prospect research",
+          "Sales meeting preparation and call analysis",
+          "SEO keyword discovery and prioritization"
+        ],
+        "pros": [
+          "Rapid creation of specialized agents",
+          "Broad integration with communication and data tools",
+          "Enterprise‑grade security, SOC 2 Type II and GDPR compliance"
+        ],
+        "cons": [
+          "Pricing is custom and not publicly disclosed",
+          "Complex configuration for VPC and on‑premise deployments"
+        ],
+        "pricing": "Custom enterprise pricing; contact sales for details.",
+        "target_users": "Enterprise teams, sales, support, marketing, and data analytics professionals."
+      }
+    }
+  },
+  {
+    "id": "diagnostic-tools",
+    "name": "AI Diagnostic Tools",
+    "category": "other",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "diagnostic-tools.html",
+    "details": {
+      "logoUrl": "",
+      "visitUrl": "",
+      "sections": {}
+    }
+  },
+  {
+    "id": "drug-discovery",
+    "name": "AI Drug Discovery Tools",
+    "category": "other",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "drug-discovery.html",
+    "details": {
+      "logoUrl": "",
+      "visitUrl": "",
+      "sections": {}
+    }
+  },
+  {
+    "id": "personalized-medicine",
+    "name": "Personalized Medicine Tools",
+    "category": "other",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "personalized-medicine.html",
+    "details": {
+      "logoUrl": "",
+      "visitUrl": "",
+      "sections": {}
+    }
+  },
+  {
+    "id": "akkio",
+    "name": "Akkio",
+    "category": "automl",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "Akkio is a no-code AI platform designed for business users to build and deploy ML models. It provides a simple drag-and-drop interface, fast model training, and integrations with tools like HubSpot and Salesforce.\nIt is aimed at marketing, sales, and business intelligence teams that need quick AI adoption.",
+    "page": "tool-akkio.html",
+    "details": {
+      "logoUrl": "https://www.akkio.com/logo.png",
+      "visitUrl": "https://www.akkio.com",
+      "sections": {
+        "about_akkio": "Akkio is a no-code AI platform designed for business users to build and deploy ML models. It provides a simple drag-and-drop interface, fast model training, and integrations with tools like HubSpot and Salesforce.\nIt is aimed at marketing, sales, and business intelligence teams that need quick AI adoption.",
+        "key_features": [
+          "No-code ML interface",
+          "Fast model training",
+          "Business tool integrations",
+          "Real-time deployment",
+          "Visualization dashboards"
+        ],
+        "use_cases": [
+          "Lead scoring",
+          "Sales forecasting",
+          "Customer churn reduction"
+        ],
+        "pricing": "Free trial + Paid plans starting at $49/month",
+        "pricing_badge": "Freemium",
+        "target_users": "Marketers, sales teams, business analysts",
+        "pros": [
+          "No-code",
+          "Quick deployment",
+          "Business-focused integrations",
+          "Affordable plans"
+        ],
+        "cons": [
+          "Limited customization",
+          "Not for complex models",
+          "Less suited for expert data scientists"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sagemaker",
+    "name": "Amazon SageMaker",
+    "category": "ml",
+    "tag": "paid",
+    "emoji": "🚀",
+    "desc": "Fully managed ML service to build, train and deploy models on AWS infrastructure.",
+    "page": "tool-amazon-sagemaker.html",
+    "details": {
+      "logoUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+      "visitUrl": "https://aws.amazon.com/sagemaker",
+      "sections": {
+        "about_amazon_sagemaker": "Amazon SageMaker is a fully managed machine learning service by AWS. It covers the entire ML lifecycle, from model training to deployment, monitoring, and scaling.",
+        "key_features": [
+          "Managed model hosting",
+          "Built-in algorithms and frameworks",
+          "Auto-scaling infrastructure",
+          "Real-time and batch inference",
+          "Integration with AWS ecosystem"
+        ],
+        "use_cases": [
+          "Large-scale enterprise ML",
+          "AI-powered cloud products",
+          "Real-time inference APIs",
+          "ML workflows in AWS environment"
+        ],
+        "pricing": "Usage-based on compute, storage, inference",
+        "pricing_badge": "Paid",
+        "target_users": "Enterprises, startups, cloud ML teams",
+        "pros": [
+          "Fully managed service",
+          "Scalable & reliable",
+          "AWS ecosystem integration",
+          "Comprehensive features"
+        ],
+        "cons": [
+          "Can be expensive",
+          "Vendor lock-in with AWS"
+        ]
+      }
+    }
+  },
+  {
+    "id": "amazon-translate",
+    "name": "Amazon Translate",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "📦",
+    "desc": "Neural machine translation service from AWS for real-time and batch translation.",
+    "page": "tool-amazon-translate.html",
+    "details": {
+      "logoUrl": "https://d1.awsstatic.com/product-marketing/Translate/translate-logo.1a0a12e4f8c13a3420e3c1a5e1a905e4d5d8bb05.png",
+      "visitUrl": "https://aws.amazon.com/translate",
+      "sections": {
+        "about_amazon_translate": "Amazon Translate is a neural machine translation service designed for scalability and integration into AWS workflows. It supports batch and real-time translations, custom terminologies, and integration with other AWS services for document pipelines and localized applications.",
+        "key_features": [
+          "Scalable API for batch & real-time translation",
+          "Custom terminology and parallel data options",
+          "Integration with AWS services (S3, Lambda, Comprehend)",
+          "Supports many common language pairs"
+        ],
+        "use_cases": [
+          "Localizing websites and product content at scale",
+          "Translating customer support messages and logs",
+          "Automating translation in document workflows"
+        ],
+        "pricing": "Pay-as-you-go; free tier sometimes available",
+        "pricing_badge": "Paid",
+        "target_users": "Enterprises using AWS, developers needing integrated translation pipelines",
+        "pros": [
+          "Native AWS integration and scale",
+          "Customization for domain-specific terms",
+          "Pay-as-you-go model for flexible use"
+        ],
+        "cons": [
+          "Costs can grow with heavy usage",
+          "Quality depends on language pair and domain"
+        ]
+      }
+    }
+  },
+  {
+    "id": "anyword",
+    "name": "Anyword",
+    "category": "nlp",
+    "tag": "paid",
+    "emoji": "📊",
+    "desc": "AI copywriting with predictive performance analytics for higher conversions.",
+    "page": "tool-anyword.html",
+    "details": {
+      "logoUrl": "https://anyword.com/wp-content/uploads/2021/09/Anyword-logo.svg",
+      "visitUrl": "https://anyword.com",
+      "sections": {
+        "about_anyword": "Anyword mixes AI copy generation with predictive analytics that estimate the expected performance of ad copy. It's targeted towards marketers who want AI output plus performance scoring to make data-driven choices on which copy variants to run.",
+        "key_features": [
+          "AI copy generation with predictive performance scoring",
+          "Landing page and ad copy templates",
+          "Audience and channel optimization suggestions",
+          "Collaboration & workflow features"
+        ],
+        "use_cases": [
+          "Generating ad variants with expected conversion scores",
+          "Optimizing landing page headlines and CTA text",
+          "Scaling marketing campaigns with AI-driven variants"
+        ],
+        "pricing": "Tiered monthly plans; business-focused pricing",
+        "pricing_badge": "Paid",
+        "target_users": "Marketers, ad ops teams, agencies, growth teams",
+        "pros": [
+          "Predictive scoring helps prioritize higher-performing copy",
+          "Focused on ad and conversion-driven copy generation",
+          "Integration-friendly with ad tooling"
+        ],
+        "cons": [
+          "Pricing aimed at commercial users",
+          "Predictive scoring helpful but not a guarantee — still requires testing"
+        ]
+      }
+    }
+  },
+  {
+    "id": "aws-comprehend",
+    "name": "AWS Comprehend",
+    "category": "text",
+    "tag": "paid",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-aws-comprehend.html",
+    "details": {
+      "logoUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iMTAiIGZpbGw9IiNmZjkwMDAiLz4KPHRleHQgeD0iNDAiIHk9IjM1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5BV1M8L3RleHQ+Cjx0ZXh0IHg9IjQwIiB5PSI1MCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEwIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+Q29tcHJlaGVuZDwvdGV4dD4KPC9zdmc+Cg==",
+      "visitUrl": "https://aws.amazon.com/comprehend",
+      "sections": {
+        "about_aws_comprehend": "Amazon Comprehend is a fully managed NLP service that identifies entities, key phrases, sentiment, language, and topics in text. It's designed to integrate with AWS infrastructure and workflows, making it convenient for enterprises already in the AWS ecosystem to build insight-driven applications.",
+        "key_features": [
+          "Entity & key-phrase extraction, sentiment, topic modeling",
+          "Custom classification and custom entity recognition",
+          "Native AWS integration (S3, Lambda, etc.)",
+          "Managed, scalable API"
+        ],
+        "use_cases": [
+          "Automating customer support triage",
+          "Extracting metadata from documents for search indexing",
+          "Topic modeling for large textual corpora"
+        ],
+        "pricing": "Pay-as-you-go; free tier limited usage",
+        "pricing_badge": "Paid",
+        "target_users": "Enterprises, backend developers, data teams in AWS shops",
+        "pros": [
+          "Managed service with deep AWS integrations",
+          "Custom model training options",
+          "Scales with AWS account resources"
+        ],
+        "cons": [
+          "Cost management required at high volume",
+          "Less control than self-hosted open models"
+        ]
+      }
+    }
+  },
+  {
+    "id": "azure-automl",
+    "name": "Azure Automated ML",
+    "category": "automl",
+    "tag": "paid",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-azure-automl.html",
+    "details": {
+      "logoUrl": "https://azurecomcdn.azureedge.net/cvt-9e70906f622edea4a0d297927651c01fb9e9f998090b52f80f70ea6f2878f2a6/images/icon/azure-logo.svg",
+      "visitUrl": "https://azure.microsoft.com/services/machine-learning/automatedml/",
+      "sections": {
+        "about_azure_automated_ml": "Azure Automated ML is Microsoft's AutoML offering that simplifies ML model creation and deployment on Azure. It automatically selects the best algorithms, performs hyperparameter tuning, and supports deployment to Azure cloud.\nIt integrates tightly with other Microsoft services, making it ideal for enterprises already within the Microsoft ecosystem.",
+        "key_features": [
+          "Automated algorithm selection",
+          "Hyperparameter tuning",
+          "Azure ecosystem integration",
+          "Model explainability",
+          "Deployment on Azure cloud"
+        ],
+        "use_cases": [
+          "Predictive maintenance",
+          "Customer segmentation",
+          "Automated report generation"
+        ],
+        "pricing": "Azure usage-based pricing",
+        "pricing_badge": "Paid",
+        "target_users": "Businesses, Azure users, enterprise developers",
+        "pros": [
+          "Seamless Azure integration",
+          "Automated workflow",
+          "Scalable",
+          "Strong governance features"
+        ],
+        "cons": [
+          "Locked to Azure ecosystem",
+          "Paid usage",
+          "Requires cloud setup"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bentoml",
+    "name": "BentoML",
+    "category": "deployment",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "BentoML is an open-source platform for packaging and deploying machine learning models as microservices. It enables fast API creation and deployment across different environments.",
+    "page": "tool-bentoml.html",
+    "details": {
+      "logoUrl": "https://bentoml.org/images/logo.png",
+      "visitUrl": "https://bentoml.org",
+      "sections": {
+        "about_bentoml": "BentoML is an open-source platform for packaging and deploying machine learning models as microservices. It enables fast API creation and deployment across different environments.",
+        "key_features": [
+          "Model packaging into Docker images",
+          "REST & gRPC APIs",
+          "Supports multiple ML frameworks",
+          "Integration with cloud providers",
+          "CI/CD friendly"
+        ],
+        "use_cases": [
+          "Deploying ML APIs",
+          "Cloud-native ML microservices",
+          "Startup AI product development",
+          "Experiment-to-production pipeline"
+        ],
+        "pricing": "Free open-source, BentoCloud for enterprise",
+        "pricing_badge": "Freemium",
+        "target_users": "ML developers, startups, enterprises",
+        "pros": [
+          "Easy model packaging",
+          "Supports many ML frameworks",
+          "Flexible deployment targets",
+          "Strong focus on developer experience"
+        ],
+        "cons": [
+          "Learning curve for beginners",
+          "Community smaller than TensorFlow/Kubeflow"
+        ]
+      }
+    }
+  },
+  {
+    "id": "bigml",
+    "name": "BigML",
+    "category": "automl",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "BigML provides a cloud-based AutoML platform focusing on simplicity and accessibility. It offers one-click model creation and deployment with support for classification, regression, clustering, and anomaly detection.\nIt is widely used by educators, small businesses, and researchers for its affordability and usability.",
+    "page": "tool-bigml.html",
+    "details": {
+      "logoUrl": "https://bigml.com/static/img/bigml_logo.png",
+      "visitUrl": "https://bigml.com",
+      "sections": {
+        "about_bigml": "BigML provides a cloud-based AutoML platform focusing on simplicity and accessibility. It offers one-click model creation and deployment with support for classification, regression, clustering, and anomaly detection.\nIt is widely used by educators, small businesses, and researchers for its affordability and usability.",
+        "key_features": [
+          "One-click model creation",
+          "Supports multiple ML algorithms",
+          "Visualization tools",
+          "Model deployment via API",
+          "Cloud-based"
+        ],
+        "use_cases": [
+          "Fraud detection",
+          "Academic research",
+          "Predictive maintenance for SMEs"
+        ],
+        "pricing": "Free basic + Paid advanced features",
+        "pricing_badge": "Freemium",
+        "target_users": "Educators, SMEs, researchers",
+        "pros": [
+          "User-friendly",
+          "Affordable",
+          "Visualization-rich",
+          "Educational focus"
+        ],
+        "cons": [
+          "Limited enterprise features",
+          "Less scalable",
+          "Cloud dependency"
+        ]
+      }
+    }
+  },
+  {
+    "id": "botpress",
+    "name": "Botpress",
+    "category": "nlp",
+    "tag": "open-source",
+    "emoji": "🤖",
+    "desc": "Open-source conversational AI platform for building enterprise chatbots.",
+    "page": "tool-botpress.html",
+    "details": {
+      "logoUrl": "https://botpress.com/static/botpress-logo.svg",
+      "visitUrl": "https://botpress.com",
+      "sections": {
+        "about_botpress": "Botpress is an open-source conversational platform focused on modular architecture and a visual flow editor. It is developer-friendly while also offering no-code visual building blocks, enabling teams to build custom bots and integrate them across channels like web chat, WhatsApp, and Slack.",
+        "key_features": [
+          "Visual flow editor and modular components",
+          "NLU integrated with custom modules",
+          "Omnichannel connectors",
+          "On-premises or cloud deployment options"
+        ],
+        "use_cases": [
+          "Support chatbots with knowledge base connectors",
+          "Sales lead qualification flows on websites",
+          "Internal automation bots for HR or IT helpdesks"
+        ],
+        "pricing": "Open-source core; paid enterprise/cloud",
+        "pricing_badge": "Freemium",
+        "target_users": "Developers, product teams, enterprises seeking customization and visual tooling",
+        "pros": [
+          "Good balance of visual builder and developer control",
+          "Modular and extensible architecture",
+          "Community & enterprise editions available"
+        ],
+        "cons": [
+          "Enterprise-level features behind paid plans",
+          "Requires technical setup for advanced integrations"
+        ]
+      }
+    }
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🤖",
+    "desc": "Advanced conversational AI by OpenAI for writing, coding, analysis and more.",
+    "page": "tool-chatgpt.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+      "visitUrl": "https://chat.openai.com",
+      "sections": {
+        "about_chatgpt": "ChatGPT is an advanced conversational LLM platform by OpenAI that generates human-like text across many domains: creative writing, problem solving, code generation, summarization, and more. It's used in interactive chat setups and via API for application integration. The model excels at producing coherent, context-aware content and can be fine-tuned/controlled to some extent using system prompts and instruction tuning.",
+        "key_features": [
+          "Conversational text generation and code assistance",
+          "Prompt-driven behavior and context management",
+          "API access for integration into applications",
+          "Plugins and web integration options (varies by plan)"
+        ],
+        "use_cases": [
+          "Drafting blog posts, ads, and emails",
+          "Generating code snippets and explanations",
+          "Chat-based customer assistants and knowledge retrieval"
+        ],
+        "pricing": "Free tier available; ChatGPT Plus $20/month for priority access; API billed per usage",
+        "pricing_badge": "Freemium",
+        "target_users": "Developers, content creators, businesses, students, researchers",
+        "pros": [
+          "Extremely versatile and widely adopted",
+          "Strong generative quality and multi-domain capability",
+          "Large community and ecosystem (plugins, examples)"
+        ],
+        "cons": [
+          "Cost at scale for heavy API usage",
+          "Occasional hallucinations or factual errors without prompt engineering"
+        ]
+      }
+    }
+  },
+  {
+    "id": "cntk",
+    "name": "Microsoft CNTK",
+    "category": "model",
+    "tag": "free",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-cntk.html",
+    "details": {
+      "logoUrl": "https://avatars.githubusercontent.com/u/6154722?s=200&v=4",
+      "visitUrl": "https://github.com/microsoft/CNTK",
+      "sections": {
+        "about_microsoft_cntk": "CNTK is Microsoft's deep learning framework designed for efficiency and scalability. It supports feedforward DNNs, CNNs, RNNs, and is optimized for speech recognition and large-scale training.",
+        "key_features": [
+          "Efficient parallel training",
+          "Supports multiple neural network architectures",
+          "Built-in model evaluation tools",
+          "GPU acceleration",
+          "Multi-language API"
+        ],
+        "use_cases": [
+          "Speech recognition",
+          "Deep learning research",
+          "AI model prototyping",
+          "Large-scale training"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "ML engineers, enterprise AI developers",
+        "pros": [
+          "Efficient distributed training",
+          "Scalable for big data workloads",
+          "Strong performance for speech AI"
+        ],
+        "cons": [
+          "Smaller ecosystem",
+          "Limited active development"
+        ]
+      }
+    }
+  },
+  {
+    "id": "copy-ai",
+    "name": "Copy.ai",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "📝",
+    "desc": "AI copywriting tool for ads, emails, product descriptions and social posts.",
+    "page": "tool-copy-ai.html",
+    "details": {
+      "logoUrl": "https://www.copy.ai/icons/favicon-32x32.png",
+      "visitUrl": "https://www.copy.ai",
+      "sections": {
+        "about_copy_ai": "Copy.ai is a focused AI copywriting tool that generates marketing content like product descriptions, social posts, headlines, and email copy. It provides easy-to-use templates so users can rapidly produce marketing text with minimal setup, aimed at small teams and entrepreneurs.",
+        "key_features": [
+          "Marketing & copy templates",
+          "Quick idea and headline generation",
+          "Team collaboration features",
+          "Multi-language support for some outputs"
+        ],
+        "use_cases": [
+          "Product description generation for e-commerce",
+          "Social media post ideas and caption creation",
+          "Quick ad copy and headline testing"
+        ],
+        "pricing": "Free tier; Pro plans typically subscription-based",
+        "pricing_badge": "Freemium",
+        "target_users": "Freelancers, marketers, small businesses, content creators",
+        "pros": [
+          "Very quick generation for marketing use-cases",
+          "Intuitive interface for non-technical users",
+          "Useful templates for common marketing tasks"
+        ],
+        "cons": [
+          "Limited long-form capabilities compared with specialized long-form tools",
+          "Output often needs editing for brand-specific tone and accuracy"
+        ]
+      }
+    }
+  },
+  {
+    "id": "copysmith",
+    "name": "Copysmith",
+    "category": "nlp",
+    "tag": "paid",
+    "emoji": "🏭",
+    "desc": "Enterprise AI content generation for ecommerce and marketing teams.",
+    "page": "tool-copysmith.html",
+    "details": {
+      "logoUrl": "https://copysmith.ai/logo.svg",
+      "visitUrl": "https://copysmith.ai",
+      "sections": {
+        "about_copysmith": "Copysmith is oriented to e-commerce and marketing teams that need bulk content — product descriptions, ad sets, and campaign copy. It supports bulk generation and collaboration across team members and aims to accelerate e-commerce content pipelines.",
+        "key_features": [
+          "Bulk product description generation",
+          "Collaboration and workflow tools",
+          "Templates for ads, blogs, emails",
+          "E-commerce platform integrations"
+        ],
+        "use_cases": [
+          "Generating hundreds of product descriptions for online stores",
+          "Producing ad copy packs for campaigns",
+          "Creating email campaign variants for promotional pushes"
+        ],
+        "pricing": "Subscription tiers aimed at businesses",
+        "pricing_badge": "Paid",
+        "target_users": "E-commerce merchants, marketing teams, agencies",
+        "pros": [
+          "Bulk generation speeds up catalog tasks",
+          "Tailored for e-commerce workflows",
+          "Team collaboration features"
+        ],
+        "cons": [
+          "Cost may be high for small shops for large volumes",
+          "Outputs require QA for brand voice & accuracy"
+        ]
+      }
+    }
+  },
+  {
+    "id": "datarobot",
+    "name": "DataRobot",
+    "category": "ml",
+    "tag": "paid",
+    "emoji": "🤖",
+    "desc": "Enterprise AutoML platform for building, deploying and managing ML models.",
+    "page": "tool-datarobot.html",
+    "details": {
+      "logoUrl": "https://datarobot.com/wp-content/uploads/2020/01/DataRobot-Logo.png",
+      "visitUrl": "https://www.datarobot.com",
+      "sections": {
+        "about_datarobot": "DataRobot is a leading enterprise AutoML platform offering end-to-end automation of ML workflows. It supports model training, evaluation, and deployment, helping businesses adopt AI faster. With governance and compliance tools, it ensures responsible AI usage.\nIt caters to organizations needing to operationalize AI at scale while reducing manual effort in data science.",
+        "key_features": [
+          "End-to-end ML automation",
+          "Model governance and monitoring",
+          "Time-series forecasting support",
+          "Deployment-ready models",
+          "Collaboration tools for teams"
+        ],
+        "use_cases": [
+          "Demand forecasting",
+          "Financial risk analysis",
+          "Customer churn prediction"
+        ],
+        "pricing": "Enterprise subscription",
+        "pricing_badge": "Paid",
+        "target_users": "Enterprises, financial institutions, AI adoption teams",
+        "pros": [
+          "End-to-end platform",
+          "Governance support",
+          "Collaboration-friendly",
+          "Strong forecasting tools"
+        ],
+        "cons": [
+          "Costly",
+          "Enterprise-oriented",
+          "Steep learning curve for small teams"
+        ]
+      }
+    }
+  },
+  {
+    "id": "deepl",
+    "name": "DeepL",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🌐",
+    "desc": "High-quality neural machine translation — more accurate than Google Translate.",
+    "page": "tool-deepl.html",
+    "details": {
+      "logoUrl": "https://static.deepl.com/img/logo/DeepL_Logo.png",
+      "visitUrl": "https://www.deepl.com",
+      "sections": {
+        "about_deepl": "DeepL is widely praised for producing very natural-sounding translations by leveraging neural networks and domain-sensitive models. It supports document translation (including preserving formatting), developer APIs, and desktop clients. DeepL often outperforms competitors in fluency for many European language pairs.",
+        "key_features": [
+          "High-quality, context-aware translations",
+          "Document translation while preserving formatting (DOCX, PPTX)",
+          "API for developers and enterprise integration",
+          "Desktop & browser integrations"
+        ],
+        "use_cases": [
+          "Translating marketing copy & documents with accurate style",
+          "Professional localization workflows",
+          "API translation for content management systems"
+        ],
+        "pricing": "Free tier with limits; Pro plans for API & advanced features",
+        "pricing_badge": "Freemium",
+        "target_users": "Translators, content teams, businesses requiring high-quality translations",
+        "pros": [
+          "Very natural translation outputs (esp. European languages)",
+          "Good document handling and formatting preservation",
+          "Strong developer API and enterprise features"
+        ],
+        "cons": [
+          "Smaller language coverage compared with Google Translate",
+          "Paid tiers required for high-volume or enterprise features"
+        ]
+      }
+    }
+  },
+  {
+    "id": "dialogflow",
+    "name": "Dialogflow",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "💬",
+    "desc": "Google\\",
+    "page": "tool-dialogflow.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dialogflow_logo.png",
+      "visitUrl": "https://dialogflow.cloud.google.com",
+      "sections": {
+        "about_dialogflow": "Dialogflow is Google's conversational AI platform for building chatbots and voice assistants. It provides intent recognition, entity management, and multi-channel integrations, along with easy connectors for telephony, web, and messaging platforms. It's popular for rapid prototyping and integration into Google Cloud services.",
+        "key_features": [
+          "Intent & entity modeling",
+          "Multichannel deployment (web, voice, telephony)",
+          "Integration with Google Cloud and Google Assistant",
+          "Prebuilt agents and templates"
+        ],
+        "use_cases": [
+          "Customer support chatbots on websites",
+          "Voice assistants integrated with phone systems",
+          "FAQ automation and simple conversational workflows"
+        ],
+        "pricing": "Free tier for basic usage; pay-as-you-go for enterprise via Cloud",
+        "pricing_badge": "Freemium",
+        "target_users": "Developers, product teams, enterprises building conversational interfaces",
+        "pros": [
+          "Easy to get started with strong tooling",
+          "Good integration into Google services",
+          "Visual console and prebuilt templates"
+        ],
+        "cons": [
+          "Full enterprise features may incur cloud billing complexity",
+          "Less control than fully open-source frameworks for deep customization"
+        ]
+      }
+    }
+  },
+  {
+    "id": "google-automl",
+    "name": "Google AutoML",
+    "category": "ml",
+    "tag": "freemium",
+    "emoji": "☁️",
+    "desc": "Train high-quality custom ML models with minimal ML expertise via Google Cloud.",
+    "page": "tool-google-cloud-automl.html",
+    "details": {
+      "logoUrl": "https://cloud.google.com/_static/images/cloud/icons/favicons/onecloud/super_cloud.png",
+      "visitUrl": "https://cloud.google.com/automl",
+      "sections": {
+        "about_google_cloud_automl": "Google Cloud AutoML is a suite of machine learning products designed for users with limited ML expertise. It allows businesses and developers to build high-quality custom models for vision, language, and structured data tasks without writing extensive code. AutoML provides an intuitive interface, automated hyperparameter tuning, and scalable infrastructure.\nIt is particularly useful for enterprises seeking to integrate ML into their workflows quickly while benefiting from Google Cloud's ecosystem.",
+        "key_features": [
+          "No-code model training and deployment",
+          "Automated hyperparameter optimization",
+          "Supports image, text, and structured data",
+          "Google Cloud ecosystem integration",
+          "Scalable training and serving infrastructure"
+        ],
+        "use_cases": [
+          "Image classification for e-commerce",
+          "Sentiment analysis for customer support",
+          "Predictive analytics for business workflows"
+        ],
+        "pricing": "Usage-based pricing; free trial available",
+        "pricing_badge": "Paid",
+        "target_users": "Businesses, developers, data analysts without deep ML expertise",
+        "pros": [
+          "Easy to use",
+          "Wide range of ML tasks",
+          "Scalable infrastructure",
+          "Integration with Google ecosystem"
+        ],
+        "cons": [
+          "Paid-only beyond trial",
+          "Limited customization",
+          "Cloud dependency"
+        ]
+      }
+    }
+  },
+  {
+    "id": "google-nlp",
+    "name": "Google Cloud NLP",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🔍",
+    "desc": "Sentiment analysis, entity recognition and syntax analysis via Google Cloud.",
+    "page": "tool-google-nlp.html",
+    "details": {
+      "logoUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iMTAiIGZpbGw9IiM0Mjg1ZjQiLz4KPHRleHQgeD0iNDAiIHk9IjM1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5Hb29nbGU8L3RleHQ+Cjx0ZXh0IHg9IjQwIiB5PSI1MCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEwIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TkxQPC90ZXh0Pgo8L3N2Zz4K",
+      "visitUrl": "https://cloud.google.com/natural-language",
+      "sections": {
+        "about_google_cloud_nlp": "Google Cloud Natural Language is a managed API offering for syntactic analysis, entity recognition, sentiment analysis, and content classification. It's geared toward enterprises that want a scalable, fully managed NLP API integrated into the Google Cloud ecosystem. It handles multiple languages and integrates with other GCP services for pipeline automation.",
+        "key_features": [
+          "Entity recognition & sentiment analysis",
+          "Document classification and syntax parsing",
+          "Auto-scaling managed API with GCP integration",
+          "Multi-language support"
+        ],
+        "use_cases": [
+          "Customer feedback sentiment monitoring",
+          "Entity extraction from documents for indexing",
+          "Automated content classification pipelines"
+        ],
+        "pricing": "Pay-as-you-go; free trial / limited free tier",
+        "pricing_badge": "Paid",
+        "target_users": "Businesses, data engineers, backend developers, product teams",
+        "pros": [
+          "Fully managed and scalable",
+          "Integrates with GCP tooling and security features",
+          "Simple API for quick adoption"
+        ],
+        "cons": [
+          "Per-call costs can add up at scale",
+          "Less customization than self-hosted models"
+        ]
+      }
+    }
+  },
+  {
+    "id": "google-translate",
+    "name": "Google Translate",
+    "category": "nlp",
+    "tag": "free",
+    "emoji": "🗺️",
+    "desc": "Free instant translation for 100+ languages by Google.",
+    "page": "tool-google-translate.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Google_Translate_logo.svg",
+      "visitUrl": "https://translate.google.com",
+      "sections": {
+        "about_google_translate": "Google Translate is a ubiquitous translation service offering text, speech, image, and website translation across 100+ languages. It combines statistical and neural methods to provide real-time translations and has mobile and web clients plus an API for integration. For many scenarios it's the fastest route to cross-language accessibility across devices and content types.",
+        "key_features": [
+          "Real-time text & speech translation",
+          "Image OCR-based translation and instant camera mode",
+          "Website and document translation APIs",
+          "Offline language packs on mobile"
+        ],
+        "use_cases": [
+          "On-the-fly translation in travel apps",
+          "Translating website content dynamically",
+          "Quick translation for chat and email content"
+        ],
+        "pricing": "Web/mobile free; Cloud Translation API is paid, with limited free tier",
+        "pricing_badge": "Freemium",
+        "target_users": "Consumers, developers (via API), enterprises needing translation integration",
+        "pros": [
+          "Wide language coverage and convenient apps",
+          "Real-time camera and speech modes",
+          "Large language-model improvements over time"
+        ],
+        "cons": [
+          "Quality varies by language pair and domain",
+          "Privacy concerns for sensitive content unless using paid enterprise flows"
+        ]
+      }
+    }
+  },
+  {
+    "id": "vertex-ai",
+    "name": "Google Vertex AI",
+    "category": "ml",
+    "tag": "paid",
+    "emoji": "🌟",
+    "desc": "Unified ML platform from Google Cloud for building and deploying ML models.",
+    "page": "tool-google-vertex-ai.html",
+    "details": {
+      "logoUrl": "https://cloud.google.com/vertex-ai/images/logo.svg",
+      "visitUrl": "https://cloud.google.com/vertex-ai",
+      "sections": {
+        "about_google_vertex_ai": "Google Vertex AI is Google Cloud's managed ML platform for building, deploying, and scaling machine learning models. It unifies AutoML, custom training, and model serving in one environment.",
+        "key_features": [
+          "Unified ML workflow (training, tuning, deployment)",
+          "Pre-trained APIs & AutoML",
+          "MLOps pipeline support",
+          "Real-time and batch predictions",
+          "Strong GCP integration"
+        ],
+        "use_cases": [
+          "Cloud AI applications",
+          "End-to-end ML pipelines",
+          "AI-powered SaaS products",
+          "Enterprise ML operations"
+        ],
+        "pricing": "Usage-based, GCP services",
+        "pricing_badge": "Paid",
+        "target_users": "Enterprises, ML teams using Google Cloud",
+        "pros": [
+          "End-to-end ML lifecycle",
+          "Pre-built AI APIs",
+          "Cloud-native scalability",
+          "Tight GCP integration"
+        ],
+        "cons": [
+          "Expensive for heavy workloads",
+          "Vendor lock-in to Google Cloud"
+        ]
+      }
+    }
+  },
+  {
+    "id": "h2o-driverless-ai",
+    "name": "H2O.ai Driverless AI",
+    "category": "automl",
+    "tag": "paid",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-h2o-driverless-ai.html",
+    "details": {
+      "logoUrl": "https://www.h2o.ai/wp-content/uploads/2017/10/h2o-driverless-ai.png",
+      "visitUrl": "https://www.h2o.ai/products/h2o-driverless-ai/",
+      "sections": {
+        "about_h2o_ai_driverless_ai": "H2O Driverless AI is an enterprise-grade AutoML platform that automates feature engineering, model building, and hyperparameter tuning. It provides explainable AI outputs and ensures transparency for business-critical use cases. With support for multiple data types and models, it accelerates ML workflows for enterprises.\nIt is widely adopted in industries like finance, healthcare, and insurance where explainability and compliance are crucial.",
+        "key_features": [
+          "Automated feature engineering",
+          "Model interpretability (Explainable AI)",
+          "Hyperparameter optimization",
+          "Supports structured, text, and time-series data",
+          "Integration with enterprise systems"
+        ],
+        "use_cases": [
+          "Credit risk scoring",
+          "Fraud detection",
+          "Healthcare predictive modeling"
+        ],
+        "pricing": "Enterprise licensing",
+        "pricing_badge": "Paid",
+        "target_users": "Enterprises, data scientists, regulated industries",
+        "pros": [
+          "Strong explainability",
+          "Robust automation",
+          "Enterprise-ready",
+          "Wide industry use cases"
+        ],
+        "cons": [
+          "Expensive",
+          "Requires enterprise integration",
+          "Less suitable for beginners"
+        ]
+      }
+    }
+  },
+  {
+    "id": "huggingface-transformers",
+    "name": "Hugging Face Transformers",
+    "category": "model",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-huggingface-transformers.html",
+    "details": {
+      "logoUrl": "https://huggingface.co/front/assets/huggingface_logo.svg",
+      "visitUrl": "https://huggingface.co",
+      "sections": {
+        "about_hugging_face_transformers": "Hugging Face Transformers is a library for state-of-the-art natural language processing (NLP) models. It provides pre-trained transformer models like BERT, GPT, and T5, with fine-tuning support for custom tasks.",
+        "key_features": [
+          "1000+ pre-trained models",
+          "Easy fine-tuning on custom datasets",
+          "Supports NLP, CV, and speech tasks",
+          "Integration with PyTorch and TensorFlow",
+          "Hugging Face Hub for model sharing"
+        ],
+        "use_cases": [
+          "Chatbots",
+          "Sentiment analysis",
+          "Text summarization",
+          "Machine translation"
+        ],
+        "pricing": "Free library, paid Hub and Inference API",
+        "pricing_badge": "Freemium",
+        "target_users": "NLP researchers, AI developers, data scientists",
+        "pros": [
+          "Easy to use with pre-trained models",
+          "Wide coverage of tasks",
+          "Large open-source community",
+          "Continuous updates"
+        ],
+        "cons": [
+          "Can be resource-intensive",
+          "Dependency on large datasets"
+        ]
+      }
+    }
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "category": "ml",
+    "tag": "freemium",
+    "emoji": "🤗",
+    "desc": "The AI community hub — thousands of pretrained models, datasets and spaces.",
+    "page": "tool-huggingface.html",
+    "details": {
+      "logoUrl": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg",
+      "visitUrl": "https://huggingface.co",
+      "sections": {
+        "about_hugging_face": "Hugging Face provides a rich open-source Transformers library and Hub marketplace for pretrained models (BERT, GPT, T5, etc.). It enables easy model loading, fine-tuning, and inference across hundreds of models and many languages. The Hub also hosts datasets, model cards, and an ecosystem around model sharing and deployment.",
+        "key_features": [
+          "Wide model catalog and model hub",
+          "Easy model switching and fine-tuning APIs",
+          "Tokenizers, pipelines, and datasets integrations",
+          "Inference & hosted APIs (Hugging Face Inference)"
+        ],
+        "use_cases": [
+          "Fine-tuning transformer models for classification/NER",
+          "Hosting an inference endpoint for production apps",
+          "Experimenting with SOTA architectures and datasets"
+        ],
+        "pricing": "Open-source library free; hosted inference & AutoDeploy features are paid/freemium",
+        "pricing_badge": "Freemium",
+        "target_users": "ML engineers, researchers, startups, enterprises doing model customization",
+        "pros": [
+          "Massive model ecosystem and active community",
+          "Simplifies fine-tuning and deployment",
+          "Supports both research and production needs"
+        ],
+        "cons": [
+          "Hosted features may require paid tiers for heavy usage",
+          "Large model sizes can demand serious compute"
+        ]
+      }
+    }
+  },
+  {
+    "id": "ibm-watson-assistant",
+    "name": "IBM Watson Assistant",
+    "category": "chatbots",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-ibm-watson-assistant.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_Watson_logo_2017.png",
+      "visitUrl": "https://www.ibm.com/watson/assistant",
+      "sections": {
+        "about_ibm_watson_assistant": "Watson Assistant is IBM's enterprise chatbot platform designed for building AI-powered virtual agents. It offers dialog design, intent detection, slot-filling, and integrations with contact centers and business systems. It's positioned for robust enterprise deployments with analytics and governance features.",
+        "key_features": [
+          "Dialog builder and intent management",
+          "Contact-center & CRM integrations",
+          "Analytics and conversation insights",
+          "On-cloud and on-premise deployment options"
+        ],
+        "use_cases": [
+          "Virtual agents for customer service with CRM integration",
+          "Internal knowledge-base assistants for employees",
+          "Automated call routing and conversational IVR systems"
+        ],
+        "pricing": "Lite tier free; tiered paid plans",
+        "pricing_badge": "Freemium",
+        "target_users": "Enterprises, customer service teams, solution integrators",
+        "pros": [
+          "Enterprise-grade features and integrations",
+          "Strong analytics & governance support",
+          "Multi-channel deployment capability"
+        ],
+        "cons": [
+          "Cost and complexity for smaller teams",
+          "Learning curve for the full suite of features"
+        ]
+      }
+    }
+  },
+  {
+    "id": "itranslate",
+    "name": "iTranslate",
+    "category": "language",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "iTranslate is a mobile-first translation app for text and voice translation and includes offline language packs, phrasebooks, and instant camera translation for travelers. It's geared toward individual users and travelers needing quick, on-device translations.",
+    "page": "tool-itranslate.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/ITRANSLATE_APP_LOGO.png",
+      "visitUrl": "https://www.itranslate.com",
+      "sections": {
+        "about_itranslate": "iTranslate is a mobile-first translation app for text and voice translation and includes offline language packs, phrasebooks, and instant camera translation for travelers. It's geared toward individual users and travelers needing quick, on-device translations.",
+        "key_features": [
+          "Voice and text translation",
+          "Offline language packs",
+          "Camera-based instant translation",
+          "Phrasebook and pronunciation assistance"
+        ],
+        "use_cases": [
+          "Travel phrase translations and pronunciation help",
+          "Quick camera translation of signs/menus",
+          "Conversational translation during travel"
+        ],
+        "pricing": "Free with limitations; Pro subscription for offline & advanced features",
+        "pricing_badge": "Freemium",
+        "target_users": "Travelers, individual users, small teams needing mobile translation",
+        "pros": [
+          "Convenient mobile features and offline support",
+          "User-friendly interface for travelers",
+          "Quick camera and voice translations"
+        ],
+        "cons": [
+          "Not intended for high-volume enterprise translation",
+          "Translation quality varies by language & complexity"
+        ]
+      }
+    }
+  },
+  {
+    "id": "jasper-ai",
+    "name": "Jasper AI",
+    "category": "nlp",
+    "tag": "paid",
+    "emoji": "✍️",
+    "desc": "AI content platform for marketers — blogs, ads, social media at scale.",
+    "page": "tool-jasper-ai.html",
+    "details": {
+      "logoUrl": "https://jasper.ai/images/logo.svg",
+      "visitUrl": "https://www.jasper.ai",
+      "sections": {
+        "about_jasper_ai": "Jasper is a marketing-focused AI copywriting platform which helps teams create blog posts, ad copy, product descriptions, and social media content more quickly. It provides templates, brand voice settings, and collaboration features designed for marketers and content teams to maintain consistency and speed up content production.",
+        "key_features": [
+          "Copywriting templates and content workflows",
+          "Team workspace and brand voice controls",
+          "Long-form assistant and SEO integrations",
+          "Content recipes and automation features"
+        ],
+        "use_cases": [
+          "Creating landing page copy and ad headlines",
+          "Generating blog outlines and drafts quickly",
+          "Social media caption and campaign content generation"
+        ],
+        "pricing": "Subscription tiers oriented to individual vs team usage; entry tiers ~ $39+/month",
+        "pricing_badge": "Paid",
+        "target_users": "Marketers, content teams, agencies, e-commerce businesses",
+        "pros": [
+          "Tailored for marketing and conversion-oriented content",
+          "Good collaboration and brand-voice features",
+          "Many prebuilt templates for typical marketing tasks"
+        ],
+        "cons": [
+          "Paid plans required for full features and team usage",
+          "Generated text often needs editorial review for quality and accuracy"
+        ]
+      }
+    }
+  },
+  {
+    "id": "jax",
+    "name": "JAX",
+    "category": "model",
+    "tag": "free",
+    "emoji": "🔧",
+    "desc": "JAX, developed by Google, is a high-performance numerical computing library designed for machine learning research. It combines NumPy-like APIs with automatic differentiation and XLA-based acceleration for GPUs and TPUs.",
+    "page": "tool-jax.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jax_logo.png",
+      "visitUrl": "https://jax.readthedocs.io",
+      "sections": {
+        "about_jax": "JAX, developed by Google, is a high-performance numerical computing library designed for machine learning research. It combines NumPy-like APIs with automatic differentiation and XLA-based acceleration for GPUs and TPUs.",
+        "key_features": [
+          "NumPy-compatible syntax",
+          "Auto-differentiation (Autograd)",
+          "GPU and TPU acceleration",
+          "Parallel and distributed training",
+          "Suitable for advanced ML research"
+        ],
+        "use_cases": [
+          "Scientific simulations",
+          "Deep reinforcement learning",
+          "Advanced AI model training",
+          "Gradient-based optimization research"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "Advanced ML researchers, developers working with accelerators",
+        "pros": [
+          "Extremely fast with accelerators",
+          "Ideal for scientific computing",
+          "Functional programming style",
+          "Strong support for gradient-based optimization"
+        ],
+        "cons": [
+          "Steep learning curve",
+          "Smaller ecosystem compared to TensorFlow/PyTorch"
+        ]
+      }
+    }
+  },
+  {
+    "id": "keras",
+    "name": "Keras",
+    "category": "ml",
+    "tag": "open-source",
+    "emoji": "🧠",
+    "desc": "High-level neural networks API running on top of TensorFlow — easy to use.",
+    "page": "tool-keras.html",
+    "details": {
+      "logoUrl": "https://keras.io/img/logo.png",
+      "visitUrl": "https://keras.io",
+      "sections": {
+        "about_keras": "Keras is an open-source deep learning API designed for simplicity and ease of use. It runs on top of TensorFlow and allows rapid prototyping of deep learning models with minimal code. Keras is popular among beginners and researchers who want quick experiments.",
+        "key_features": [
+          "High-level API for neural networks",
+          "Works with TensorFlow backend",
+          "Pre-built layers and models",
+          "Support for CNNs, RNNs, and transformers",
+          "Easy deployment to mobile and web"
+        ],
+        "use_cases": [
+          "Educational projects",
+          "Image classification",
+          "NLP tasks",
+          "Quick AI prototyping"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "Students, beginners, researchers, ML developers",
+        "pros": [
+          "Beginner-friendly",
+          "Rapid prototyping",
+          "Strong TensorFlow integration",
+          "Extensive documentation"
+        ],
+        "cons": [
+          "Less control over low-level operations",
+          "Performance depends on TensorFlow backend"
+        ]
+      }
+    }
+  },
+  {
+    "id": "kubeflow",
+    "name": "Kubeflow",
+    "category": "ml",
+    "tag": "open-source",
+    "emoji": "☸️",
+    "desc": "ML toolkit for Kubernetes — deploy scalable ML workflows on any cloud.",
+    "page": "tool-kubeflow.html",
+    "details": {
+      "logoUrl": "https://www.kubeflow.org/docs/images/logo.png",
+      "visitUrl": "https://www.kubeflow.org",
+      "sections": {
+        "about_kubeflow": "Kubeflow is a Kubernetes-native platform for deploying, monitoring, and scaling machine learning models. It provides a full MLOps pipeline for training, tuning, and deploying ML workflows.",
+        "key_features": [
+          "Kubernetes-native deployment",
+          "End-to-end MLOps pipeline",
+          "Distributed training support",
+          "Model serving with KFServing",
+          "Scalable & cloud-native"
+        ],
+        "use_cases": [
+          "Enterprise AI deployment",
+          "Cloud-based MLOps pipelines",
+          "Distributed model serving",
+          "Real-time AI applications"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "Enterprises, DevOps engineers, ML engineers",
+        "pros": [
+          "Scalable on Kubernetes",
+          "Full MLOps capabilities",
+          "Cloud-native architecture",
+          "Strong community"
+        ],
+        "cons": [
+          "Complex setup",
+          "Requires Kubernetes expertise"
+        ]
+      }
+    }
+  },
+  {
+    "id": "landbot",
+    "name": "Landbot",
+    "category": "chatbots",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "Landbot is a no-code conversational design platform focusing on web and messaging bots using visual flow builders. It is popular for marketing, lead generation, and customer onboarding where teams want to craft conversational flows quickly and embed them into landing pages or messaging channels.",
+    "page": "tool-landbot.html",
+    "details": {
+      "logoUrl": "https://landbot.io/images/logo.svg",
+      "visitUrl": "https://landbot.io",
+      "sections": {
+        "about_landbot": "Landbot is a no-code conversational design platform focusing on web and messaging bots using visual flow builders. It is popular for marketing, lead generation, and customer onboarding where teams want to craft conversational flows quickly and embed them into landing pages or messaging channels.",
+        "key_features": [
+          "No-code visual conversation builder",
+          "Web widget and WhatsApp/Messenger deployment",
+          "Conditional logic and integration webhooks",
+          "Templates for marketing and support flows"
+        ],
+        "use_cases": [
+          "Lead qualification flows on marketing sites",
+          "Embedded conversational forms for data capture",
+          "Guided onboarding for SaaS products"
+        ],
+        "pricing": "Free tier with limited bots; paid plans for premium features",
+        "pricing_badge": "Freemium",
+        "target_users": "Marketers, product managers, SMBs, growth teams",
+        "pros": [
+          "Fast no-code flow design and deployment",
+          "Good for landing page conversions and lead capture",
+          "Easy integration with external services"
+        ],
+        "cons": [
+          "Not ideal for very complex dialog context management",
+          "Advanced integrations may require developer input"
+        ]
+      }
+    }
+  },
+  {
+    "id": "manychat",
+    "name": "ManyChat",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "📱",
+    "desc": "Chat marketing platform for Instagram, WhatsApp and Facebook Messenger automation.",
+    "page": "tool-manychat.html",
+    "details": {
+      "logoUrl": "https://manychat.com/images/manychat-logo.svg",
+      "visitUrl": "https://manychat.com",
+      "sections": {
+        "about_manychat": "ManyChat targets marketing and sales-focused bots by offering an approachable visual bot builder with strong integrations for Facebook Messenger, Instagram, and WhatsApp. It helps businesses automate customer engagement, lead capture, and campaign messaging without heavy developer involvement.",
+        "key_features": [
+          "Visual bot builder and marketing automation workflows",
+          "Facebook & Instagram integration, WhatsApp support",
+          "Broadcasts, drip sequences, and lead generation templates",
+          "E-commerce integrations and templates"
+        ],
+        "use_cases": [
+          "Messenger/Instagram-based sales funnels",
+          "Chat-based promotions and coupon distribution",
+          "Automated scheduling and lead capture workflows"
+        ],
+        "pricing": "Free tier; Pro plans starting fairly small monthly fees",
+        "pricing_badge": "Freemium",
+        "target_users": "Marketers, small-to-medium businesses, e-commerce teams",
+        "pros": [
+          "Fast to deploy for marketing use-cases",
+          "Prebuilt templates for lead gen & sales",
+          "User-friendly interface for non-technical users"
+        ],
+        "cons": [
+          "Less suitable for complex, multi-step contextual conversations",
+          "Platform lock-in around supported channels"
+        ]
+      }
+    }
+  },
+  {
+    "id": "microsoft-translator",
+    "name": "Microsoft Translator",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🪟",
+    "desc": "Cloud-based translation API supporting 100+ languages from Microsoft Azure.",
+    "page": "tool-microsoft-translator.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Translator_logo.svg",
+      "visitUrl": "https://www.microsoft.com/translator",
+      "sections": {
+        "about_microsoft_translator": "Microsoft Translator (part of Azure Cognitive Services) offers text and speech translation, conversation translation, and document translation. It's built for integration into enterprise workflows and Microsoft products (Office, Teams) and supports around 70+ languages with SDKs and REST APIs.",
+        "key_features": [
+          "Conversation and speech translation",
+          "Text and document translation APIs",
+          "Integration with Microsoft 365 and Azure services",
+          "Customizable translation with Custom Translator"
+        ],
+        "use_cases": [
+          "Real-time multilingual meetings in Teams",
+          "Translating enterprise documentation and knowledge bases",
+          "Embedding translation into SaaS platforms"
+        ],
+        "pricing": "Some free tiers; Azure billing for production usage",
+        "pricing_badge": "Freemium",
+        "target_users": "Enterprises, developers, product teams in Microsoft ecosystems",
+        "pros": [
+          "Deep integration with MS ecosystem",
+          "Good set of SDKs and customization features",
+          "Conversation/real-time translation features"
+        ],
+        "cons": [
+          "Pricing complexity through Azure billing",
+          "Quality varies by language and domain"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mlflow",
+    "name": "MLflow",
+    "category": "ml",
+    "tag": "open-source",
+    "emoji": "📈",
+    "desc": "Open-source platform for ML lifecycle — tracking, packaging and deploying models.",
+    "page": "tool-mlflow.html",
+    "details": {
+      "logoUrl": "https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png",
+      "visitUrl": "https://mlflow.org",
+      "sections": {
+        "about_mlflow": "MLflow is an open-source platform for managing the end-to-end ML lifecycle, including experimentation, reproducibility, and deployment. It supports multiple frameworks and provides model serving via REST API.",
+        "key_features": [
+          "Model versioning and registry",
+          "REST API serving",
+          "Experiment tracking",
+          "Supports many frameworks (TF, PyTorch, Sklearn)",
+          "Scalable across cloud/on-prem"
+        ],
+        "use_cases": [
+          "Model deployment in enterprise",
+          "Experiment tracking",
+          "Collaborative ML projects",
+          "Cloud MLOps pipelines"
+        ],
+        "pricing": "Free open-source, Enterprise via Databricks",
+        "pricing_badge": "Freemium",
+        "target_users": "Data scientists, MLOps engineers",
+        "pros": [
+          "Framework-agnostic",
+          "Strong community",
+          "End-to-end ML lifecycle management",
+          "Easy integration with Databricks"
+        ],
+        "cons": [
+          "UI can be complex",
+          "Requires setup for scaling"
+        ]
+      }
+    }
+  },
+  {
+    "id": "monkeylearn",
+    "name": "MonkeyLearn",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🐒",
+    "desc": "No-code text analysis platform for sentiment, classification and extraction.",
+    "page": "tool-monkeylearn.html",
+    "details": {
+      "logoUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iMTAiIGZpbGw9IiM4YjVjZjYiLz4KPHRleHQgeD0iNDAiIHk9IjM1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5Nb25rZXk8L3RleHQ+Cjx0ZXh0IHg9IjQwIiB5PSI1MCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjEwIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TGVhcm48L3RleHQ+Cjwvc3ZnPgo=",
+      "visitUrl": "https://monkeylearn.com",
+      "sections": {
+        "about_monkeylearn": "MonkeyLearn is a no-code / low-code text analysis platform that lets non-developers build custom classifiers and extractors through a web UI. It focuses on sentiment analysis, topic classification, and entity extraction with quick integrations (Zapier, webhooks) for business workflows.",
+        "key_features": [
+          "No-code model builder for classification & extraction",
+          "Pre-built models and templates",
+          "Easy integrations and API access",
+          "Dashboarding and export capabilities"
+        ],
+        "use_cases": [
+          "Sentiment analysis for customer reviews",
+          "Tagging support tickets automatically",
+          "Extracting structured data from emails"
+        ],
+        "pricing": "Free tier with limits; paid plans for higher usage",
+        "pricing_badge": "Freemium",
+        "target_users": "Business analysts, product teams, non-technical users, SMBs",
+        "pros": [
+          "Very accessible non-developer UX",
+          "Fast to set up for common use cases",
+          "Good for business workflows & integrations"
+        ],
+        "cons": [
+          "Less customizable for complex ML needs",
+          "Enterprise-scale customization may be limited or costly"
+        ]
+      }
+    }
+  },
+  {
+    "id": "mxnet",
+    "name": "MXNet",
+    "category": "model",
+    "tag": "free",
+    "emoji": "🔧",
+    "desc": "Apache MXNet is a flexible, efficient deep learning framework supported by the Apache Foundation and AWS. It allows training models across multiple GPUs and offers support for multiple programming languages.",
+    "page": "tool-mxnet.html",
+    "details": {
+      "logoUrl": "https://mxnet.apache.org/static/img/mxnet_logo.png",
+      "visitUrl": "https://mxnet.apache.org",
+      "sections": {
+        "about_mxnet": "Apache MXNet is a flexible, efficient deep learning framework supported by the Apache Foundation and AWS. It allows training models across multiple GPUs and offers support for multiple programming languages.",
+        "key_features": [
+          "Multi-language API (Python, Scala, C++)",
+          "Efficient distributed training",
+          "Gluon API for easier model building",
+          "Optimized for cloud-scale AI",
+          "Pre-trained models available"
+        ],
+        "use_cases": [
+          "Large-scale AI deployments",
+          "Enterprise AI solutions",
+          "Cloud-based ML training",
+          "Cross-language ML projects"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "Enterprise ML teams, researchers, cloud ML developers",
+        "pros": [
+          "Highly scalable",
+          "Multi-language support",
+          "Backed by AWS and Apache",
+          "Production-ready"
+        ],
+        "cons": [
+          "Smaller community compared to TensorFlow/PyTorch",
+          "Slower adoption in academia"
+        ]
+      }
+    }
+  },
+  {
+    "id": "nltk",
+    "name": "NLTK",
+    "category": "nlp",
+    "tag": "free",
+    "emoji": "🐍",
+    "desc": "Open-source Python library for NLP — tokenization, stemming, parsing.",
+    "page": "tool-nltk.html",
+    "details": {
+      "logoUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iMTAiIGZpbGw9IiMzYjgyZjYiLz4KPHRleHQgeD0iNDAiIHk9IjQ1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5OTFRLPC90ZXh0Pgo8L3N2Zz4K",
+      "visitUrl": "https://www.nltk.org",
+      "sections": {
+        "about_nltk": "NLTK is a foundational Python library for teaching and research in computational linguistics and NLP. It offers a broad suite of resources: tokenizers, corpora, classification, parsing, and evaluation tools. While not optimized for production speed, it's excellent for learning, prototyping, and experimenting with classical NLP algorithms.",
+        "key_features": [
+          "Extensive corpora and lexical resources (WordNet)",
+          "Tokenization, stemming, tagging, parsing utilities",
+          "Tools for evaluation and experimentation",
+          "Educational examples and tutorials"
+        ],
+        "use_cases": [
+          "Classroom demonstrations and tutorials",
+          "Quick prototyping of text classification systems",
+          "Linguistic analyses and corpus work"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "Students, researchers, prototypers, educators",
+        "pros": [
+          "Very comprehensive educational resource",
+          "Large set of utilities and datasets",
+          "Great for prototyping classical NLP methods"
+        ],
+        "cons": [
+          "Slower than modern production libraries",
+          "Less emphasis on modern deep learning pipelines"
+        ]
+      }
+    }
+  },
+  {
+    "id": "openai-gym",
+    "name": "OpenAI Gym",
+    "category": "model",
+    "tag": "free",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-openai-gym.html",
+    "details": {
+      "logoUrl": "https://gym.openai.com/assets/dist/home/gym-logo.png",
+      "visitUrl": "https://gym.openai.com",
+      "sections": {
+        "about_openai_gym": "OpenAI Gym is a toolkit for developing and comparing reinforcement learning (RL) algorithms. While it doesn't train models directly, it provides environments to test and benchmark RL training approaches.",
+        "key_features": [
+          "Standardized RL environments",
+          "Integration with TensorFlow & PyTorch",
+          "Large collection of benchmarks",
+          "Community-driven custom environments",
+          "Supports discrete & continuous action spaces"
+        ],
+        "use_cases": [
+          "Training RL agents",
+          "Game AI research",
+          "Robotics control",
+          "Algorithm benchmarking"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "Researchers in reinforcement learning, AI developers",
+        "pros": [
+          "Great for RL experimentation",
+          "Widely used in academia",
+          "Standardized evaluation",
+          "Open-source & extensible"
+        ],
+        "cons": [
+          "Limited to RL domain",
+          "No built-in model training"
+        ]
+      }
+    }
+  },
+  {
+    "id": "pandorabots",
+    "name": "Pandorabots",
+    "category": "chatbots",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "Pandorabots is a platform built around AIML (Artificial Intelligence Markup Language) and has powered conversational bots like Mitsuku (Kuki). It appeals to developers and researchers who prefer rule-based conversational architectures and want cross-platform deployments. It can be used both for simple scripted bots and advanced mixed-model conversational experiences.",
+    "page": "tool-pandorabots.html",
+    "details": {
+      "logoUrl": "https://www.pandorabots.com/assets/img/pb-logo.png",
+      "visitUrl": "https://www.pandorabots.com",
+      "sections": {
+        "about_pandorabots": "Pandorabots is a platform built around AIML (Artificial Intelligence Markup Language) and has powered conversational bots like Mitsuku (Kuki). It appeals to developers and researchers who prefer rule-based conversational architectures and want cross-platform deployments. It can be used both for simple scripted bots and advanced mixed-model conversational experiences.",
+        "key_features": [
+          "AIML-based rule scripting and engines",
+          "Developer APIs and hosting options",
+          "Tools for bot testing and analytics",
+          "Cross-platform deployment (web, messaging platforms)"
+        ],
+        "use_cases": [
+          "Chatterbot-style conversational experiences",
+          "Knowledge-base driven scripted assistants",
+          "Educational chatbots and research prototypes"
+        ],
+        "pricing": "Free tier; paid hosting and enterprise features",
+        "pricing_badge": "Freemium",
+        "target_users": "Developers, educators, conversational AI researchers, hobbyists",
+        "pros": [
+          "Mature platform for rule-based chatbots",
+          "Strong heritage (Mitsuku/Kuki) and community examples",
+          "Flexible hosting and customization"
+        ],
+        "cons": [
+          "AIML approach can be verbose compared to ML/NLU approaches",
+          "Harder to scale for highly contextual ML-driven dialogue without hybrid approaches"
+        ]
+      }
+    }
+  },
+  {
+    "id": "promt-one",
+    "name": "PROMT.One",
+    "category": "language",
+    "tag": "paid",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-promt-one.html",
+    "details": {
+      "logoUrl": "https://www.promt.com/uploads/logo_PROMTOne.svg",
+      "visitUrl": "https://www.promt.com",
+      "sections": {
+        "about_promt_one": "PROMT.One is a translation solution commonly used in Eastern Europe and enterprise settings; it offers online translators, desktop software, and APIs with domain-specific options and tools for grammar checking. It targets businesses needing customizable translation engines and stronger regional language support.",
+        "key_features": [
+          "Domain-specific models and terminology management",
+          "Desktop & online translators",
+          "API access and on-premise options",
+          "Grammar and style checking tools"
+        ],
+        "use_cases": [
+          "Localizing technical manuals in region-specific languages",
+          "Secure on-premise translation for internal documents",
+          "Grammar checking and translation pipelines"
+        ],
+        "pricing": "Desktop licenses and enterprise plans",
+        "pricing_badge": "Paid",
+        "target_users": "Regional enterprises, localization teams, translators in EU/Russia regions",
+        "pros": [
+          "Good at domain customization and grammar tools",
+          "Desktop and on-premise options for sensitive data",
+          "Strong regional language support"
+        ],
+        "cons": [
+          "Less universal brand recognition than major cloud providers",
+          "Smaller global footprint for some languages"
+        ]
+      }
+    }
+  },
+  {
+    "id": "pytorch",
+    "name": "PyTorch",
+    "category": "ml",
+    "tag": "open-source",
+    "emoji": "🔥",
+    "desc": "Facebook\\",
+    "page": "tool-pytorch.html",
+    "details": {
+      "logoUrl": "https://pytorch.org/assets/images/pytorch-logo.png",
+      "visitUrl": "https://pytorch.org",
+      "sections": {
+        "about_pytorch": "PyTorch, developed by Meta AI, is a deep learning framework known for its dynamic computation graph and intuitive Pythonic design. It has become the preferred choice for academic research and is rapidly growing in production-level adoption.",
+        "key_features": [
+          "Dynamic computational graph",
+          "Strong GPU acceleration with CUDA",
+          "TorchVision and TorchText libraries",
+          "Easy debugging and integration with Python tools",
+          "Large model zoo with pre-trained models",
+          "ONNX support for model export"
+        ],
+        "use_cases": [
+          "Computer vision",
+          "NLP and transformers",
+          "Reinforcement learning",
+          "Generative AI research"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "Researchers, AI developers, ML engineers",
+        "pros": [
+          "Easy to learn and use",
+          "Strong academic adoption",
+          "Flexible for experimentation",
+          "Rich ecosystem of libraries"
+        ],
+        "cons": [
+          "Slightly less optimized for production than TensorFlow",
+          "Smaller ecosystem for mobile deployment"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rapidminer-auto-model",
+    "name": "RapidMiner Auto Model",
+    "category": "automl",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-rapidminer-auto-model.html",
+    "details": {
+      "logoUrl": "https://rapidminer.com/wp-content/uploads/2016/09/rapidminer-logo.png",
+      "visitUrl": "https://rapidminer.com/products/auto-model/",
+      "sections": {
+        "about_rapidminer_auto_model": "RapidMiner Auto Model enables users to quickly generate predictive models with an intuitive interface. It guides users through dataset exploration, feature selection, and model comparison. The tool is especially popular among business analysts and non-technical professionals.\nIt bridges the gap between advanced data science and business decision-making.",
+        "key_features": [
+          "Drag-and-drop ML modeling",
+          "Automated feature selection",
+          "Model comparison and scoring",
+          "Supports multiple ML algorithms",
+          "Integration with RapidMiner ecosystem"
+        ],
+        "use_cases": [
+          "Marketing campaign optimization",
+          "Customer lifetime value prediction",
+          "Retail demand forecasting"
+        ],
+        "pricing": "Free version + Paid enterprise plans",
+        "pricing_badge": "Freemium",
+        "target_users": "Business analysts, beginners, SMEs",
+        "pros": [
+          "Easy to use",
+          "Good visualization",
+          "Freemium availability",
+          "Business-friendly"
+        ],
+        "cons": [
+          "Limited scalability",
+          "Requires RapidMiner ecosystem",
+          "Less flexibility for experts"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rasa",
+    "name": "Rasa",
+    "category": "nlp",
+    "tag": "open-source",
+    "emoji": "🤝",
+    "desc": "Open-source framework for building contextual AI assistants and chatbots.",
+    "page": "tool-rasa.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Rasa_logo.svg",
+      "visitUrl": "https://rasa.com",
+      "sections": {
+        "about_rasa": "Rasa is an open-source framework for building contextual chatbots that combine rule-based dialog with machine learning-based NLU. It gives teams full control over data and models and supports on-premises deployments — ideal for privacy-sensitive enterprise bots. Rasa emphasizes extensibility and developer workflows for production-grade assistants.",
+        "key_features": [
+          "Open-source NLU and dialog management",
+          "Custom policies and actions for contextual flow",
+          "On-premises deployment and data ownership",
+          "Integration connectors and SDKs"
+        ],
+        "use_cases": [
+          "Banking or healthcare chatbots with data privacy needs",
+          "Ticket triage combined with backend system actions",
+          "Custom conversational workflows in enterprise apps"
+        ],
+        "pricing": "Open-source core free; enterprise/cloud paid",
+        "pricing_badge": "Freemium",
+        "target_users": "ML engineers, developers, enterprises needing privacy and control",
+        "pros": [
+          "Full control over models & data",
+          "Strong for complex conversational logic",
+          "Active community and plugins"
+        ],
+        "cons": [
+          "Requires engineering effort to deploy/maintain",
+          "Steeper learning curve than no-code solutions"
+        ]
+      }
+    }
+  },
+  {
+    "id": "reverso",
+    "name": "Reverso",
+    "category": "language",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "Reverso combines machine translation with bilingual examples, contextual usage, synonyms, and pronunciation help. It's especially useful for language learners and translators looking for natural example sentences and idiomatic usage rather than raw literal translations.",
+    "page": "tool-reverso.html",
+    "details": {
+      "logoUrl": "https://static.reverso.net/img/logo.png",
+      "visitUrl": "https://www.reverso.net",
+      "sections": {
+        "about_reverso": "Reverso combines machine translation with bilingual examples, contextual usage, synonyms, and pronunciation help. It's especially useful for language learners and translators looking for natural example sentences and idiomatic usage rather than raw literal translations.",
+        "key_features": [
+          "Contextual example sentences and usage",
+          "Phrasebook, synonyms, and conjugation helpers",
+          "Translation + dictionary hybrid functionality",
+          "Browser extensions and mobile apps"
+        ],
+        "use_cases": [
+          "Learning idiomatic translations and examples",
+          "Translating phrases with context for content localization",
+          "Quick lookup of synonyms & usage while writing"
+        ],
+        "pricing": "Free basic features; premium subscriptions available",
+        "pricing_badge": "Freemium",
+        "target_users": "Language learners, translators, students, content creators seeking idiomatic translations",
+        "pros": [
+          "Great contextual examples and learning tools",
+          "Useful for idiomatic and phrase translations",
+          "Integrates dictionary-level data"
+        ],
+        "cons": [
+          "Not focused on enterprise-scale API translation",
+          "Language coverage is more learner-focused than enterprise-grade for many languages"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rytr",
+    "name": "Rytr",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🖊️",
+    "desc": "Affordable AI writing assistant for freelancers and small businesses.",
+    "page": "tool-rytr.html",
+    "details": {
+      "logoUrl": "https://rytr.me/images/rytr-logo.svg",
+      "visitUrl": "https://rytr.me",
+      "sections": {
+        "about_rytr": "Rytr is a compact and budget-friendly AI writing assistant that offers templates for emails, blog ideas, social posts, and ad copy. It emphasizes affordability and simplicity, offering many tone/style options to let small teams and freelancers produce content quickly.",
+        "key_features": [
+          "Multiple tones and use-case templates",
+          "Affordable subscription plans",
+          "Simple user interface and quick outputs",
+          "Team collaboration and document export features"
+        ],
+        "use_cases": [
+          "Rapid creation of email drafts and marketing lines",
+          "Social media captions and short-form content",
+          "Idea generation for blog topics and outlines"
+        ],
+        "pricing": "Free tier; affordable paid tiers often starting ~$9/month",
+        "pricing_badge": "Freemium",
+        "target_users": "Freelancers, small businesses, solopreneurs, marketers on a budget",
+        "pros": [
+          "Very affordable and accessible",
+          "Quick generation of many marketing text types",
+          "Simple to use for non-technical creators"
+        ],
+        "cons": [
+          "Not as feature-rich for long-form or SEO as some competitors",
+          "Output requires editing for best quality and brand fit"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sagemaker-autopilot",
+    "name": "Amazon SageMaker Autopilot",
+    "category": "automl",
+    "tag": "paid",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-sagemaker-autopilot.html",
+    "details": {
+      "logoUrl": "https://d1.awsstatic.com/SageMaker/Autopilot_logo.png",
+      "visitUrl": "https://aws.amazon.com/sagemaker/autopilot/",
+      "sections": {
+        "about_amazon_sagemaker_autopilot": "Amazon SageMaker Autopilot automatically builds, trains, and tunes ML models based on user-provided data. It offers full transparency, allowing users to inspect the models generated. As part of SageMaker, it integrates with AWS's large-scale infrastructure and services.\nIt is ideal for enterprises already leveraging AWS cloud services.",
+        "key_features": [
+          "Automated model creation and tuning",
+          "Model transparency and interpretability",
+          "AWS ecosystem integration",
+          "Supports structured, text, and time-series data",
+          "Deployment-ready pipelines"
+        ],
+        "use_cases": [
+          "Customer behavior prediction",
+          "Fraud detection",
+          "Supply chain optimization"
+        ],
+        "pricing": "AWS usage-based pricing; free tier available",
+        "pricing_badge": "Paid",
+        "target_users": "Enterprises, AWS users, data scientists",
+        "pros": [
+          "AWS integration",
+          "Scalable",
+          "Transparent models",
+          "Wide dataset support"
+        ],
+        "cons": [
+          "Paid-only beyond free tier",
+          "AWS dependency",
+          "Requires AWS setup knowledge"
+        ]
+      }
+    }
+  },
+  {
+    "id": "seldon-core",
+    "name": "Seldon Core",
+    "category": "deployment",
+    "tag": "freemium",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-seldon-core.html",
+    "details": {
+      "logoUrl": "https://www.seldon.io/hubfs/Website/Images/seldon-core-logo.png",
+      "visitUrl": "https://www.seldon.io/tech/products/core",
+      "sections": {
+        "about_seldon_core": "Seldon Core is an open-source MLOps framework for deploying and monitoring ML models at scale on Kubernetes. It supports multiple ML frameworks and provides advanced monitoring.",
+        "key_features": [
+          "Multi-framework support",
+          "Advanced metrics & logging",
+          "REST & gRPC serving",
+          "Supports explainability (XAI)",
+          "Kubernetes-native deployment"
+        ],
+        "use_cases": [
+          "Enterprise AI deployments",
+          "Regulatory-compliant ML",
+          "Monitoring production ML models",
+          "Multi-framework inference"
+        ],
+        "pricing": "Open-source, Enterprise support available",
+        "pricing_badge": "Freemium",
+        "target_users": "Enterprises, MLOps engineers, ML teams",
+        "pros": [
+          "Flexible framework support",
+          "Scalable & Kubernetes-native",
+          "Explainability tools",
+          "Active open-source community"
+        ],
+        "cons": [
+          "Requires Kubernetes knowledge",
+          "Advanced setup complexity"
+        ]
+      }
+    }
+  },
+  {
+    "id": "spacy",
+    "name": "spaCy",
+    "category": "nlp",
+    "tag": "open-source",
+    "emoji": "🔬",
+    "desc": "Industrial-strength NLP library for Python with fast, accurate models.",
+    "page": "tool-spacy.html",
+    "details": {
+      "logoUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iMTAiIGZpbGw9IiMwOWE5ZmYiLz4KPHRleHQgeD0iNDAiIHk9IjQ1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5zcGFDeTwvdGV4dD4KPC9zdmc+Cg==",
+      "visitUrl": "https://spacy.io",
+      "sections": {
+        "about_spacy": "spaCy is a fast, production-grade NLP library for Python focused on providing robust pipelines for tokenization, part-of-speech tagging, named entity recognition, dependency parsing, and word vectors. It is designed for developers building real-world NLP systems and emphasizes speed, industrial usage, and extensibility.",
+        "key_features": [
+          "High-performance tokenization & parsing",
+          "Pretrained models (various languages) and custom model training",
+          "Easy integration with deep learning frameworks (PyTorch, TensorFlow)",
+          "Rule-based matching and pipeline components"
+        ],
+        "use_cases": [
+          "NER extraction for enterprise documents",
+          "Pipeline for text preprocessing in ML models",
+          "Dependency parsing for information extraction"
+        ],
+        "pricing": "Open-source, MIT-like license",
+        "pricing_badge": "Free",
+        "target_users": "Developers, data scientists, ML engineers, production teams",
+        "pros": [
+          "Very fast and production-ready",
+          "Excellent documentation and ecosystem",
+          "Easy to extend with custom components"
+        ],
+        "cons": [
+          "Requires Python programming knowledge",
+          "Less suited for exploratory linguistics research than some academic toolkits"
+        ]
+      }
+    }
+  },
+  {
+    "id": "stanford-nlp",
+    "name": "Stanford CoreNLP",
+    "category": "nlp",
+    "tag": "open-source",
+    "emoji": "🎓",
+    "desc": "NLP toolkit for sentiment analysis, NER and dependency parsing from Stanford.",
+    "page": "tool-stanford-corenlp.html",
+    "details": {
+      "logoUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iMTAiIGZpbGw9IiNkYzI2MjYiLz4KPHRleHQgeD0iNDAiIHk9IjM1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5TdGFuZm9yZDwvdGV4dD4KPHRleHQgeD0iNDAiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5Db3JlTkxQPC90ZXh0Pgo8L3N2Zz4K",
+      "visitUrl": "https://stanfordnlp.github.io/CoreNLP",
+      "sections": {
+        "about_stanford_corenlp": "Stanford CoreNLP is an integrated set of natural language analysis tools written in Java providing tokenization, POS tagging, named entity recognition, sentiment analysis, and coreference resolution, among others. It's commonly used in academic and industry projects needing high-quality, linguistically-informed analyses and offers language models for multiple languages.",
+        "key_features": [
+          "Full linguistic analysis pipeline (NER, parsing, sentiment, coref)",
+          "Java-based server API and wrappers for other languages",
+          "Pretrained models across languages",
+          "Extensible annotator architecture"
+        ],
+        "use_cases": [
+          "Academic linguistic research",
+          "Document-level analysis pipelines (coreference + sentiment)",
+          "Large-scale batch annotation of corpora"
+        ],
+        "pricing": "Open-source, GPL-compatible",
+        "pricing_badge": "Free",
+        "target_users": "Researchers, developers, enterprises needing deep linguistic features",
+        "pros": [
+          "Very comprehensive and linguistically rich",
+          "Proven in research & production contexts",
+          "Supports multiple advanced NLP tasks"
+        ],
+        "cons": [
+          "Heavier resource usage; Java-based setup may be nontrivial",
+          "Not as lightweight as newer toolkits for quick deployment"
+        ]
+      }
+    }
+  },
+  {
+    "id": "sudowrite",
+    "name": "Sudowrite",
+    "category": "nlp",
+    "tag": "paid",
+    "emoji": "📖",
+    "desc": "AI writing partner for fiction authors — brainstorm, rewrite, expand.",
+    "page": "tool-sudowrite.html",
+    "details": {
+      "logoUrl": "https://www.sudowrite.com/favicon.ico",
+      "visitUrl": "https://www.sudowrite.com",
+      "sections": {
+        "about_sudowrite": "Sudowrite is designed for creative writers and novelists, offering tools like \"expand,\" \"rewrite,\" and \"character notes\" to help overcome writer's block and grow scenes and story arcs. It tailors suggestions for creative contexts and is used by fiction writers to iterate on drafts.",
+        "key_features": [
+          "Creative writing tools: expand, character prompts, style guides",
+          "Draft enhancement and idea generation",
+          "Integrations with writing workflows and editor features",
+          "Community and writing-focused tooling"
+        ],
+        "use_cases": [
+          "Expanding scenes and dialogues in a novel draft",
+          "Generating character backstory prompts and ideas",
+          "Overcoming writer's block with fresh suggestions"
+        ],
+        "pricing": "Subscription-based; pricing for writers",
+        "pricing_badge": "Paid",
+        "target_users": "Novelists, short story writers, creative writers, authors",
+        "pros": [
+          "Specifically tailored to creative needs, not just marketing copy",
+          "Good at preserving narrative tone and providing story ideas",
+          "Useful suite of drafting tools for fiction writers"
+        ],
+        "cons": [
+          "Not aimed at marketing or short-form copy use-cases primarily",
+          "Requires human editing and narrative control for quality"
+        ]
+      }
+    }
+  },
+  {
+    "id": "systran",
+    "name": "SYSTRAN",
+    "category": "language",
+    "tag": "paid",
+    "emoji": "🔧",
+    "desc": "SYSTRAN provides enterprise-focused machine translation solutions with emphasis on data privacy, domain adaptation, and compliance. It offers on-premises and cloud solutions tailored for regulated industries like finance, legal, and healthcare. SYSTRAN emphasizes customization and secure deployments.",
+    "page": "tool-systran.html",
+    "details": {
+      "logoUrl": "https://www.systransoft.com/wp-content/uploads/2018/07/logo-systran.png",
+      "visitUrl": "https://www.systransoft.com",
+      "sections": {
+        "about_systran": "SYSTRAN provides enterprise-focused machine translation solutions with emphasis on data privacy, domain adaptation, and compliance. It offers on-premises and cloud solutions tailored for regulated industries like finance, legal, and healthcare. SYSTRAN emphasizes customization and secure deployments.",
+        "key_features": [
+          "Domain-specific translation engines",
+          "On-premise and cloud deployment options",
+          "Data privacy and compliance focus",
+          "API and enterprise integrations"
+        ],
+        "use_cases": [
+          "Secure translation for legal contracts",
+          "Healthcare records translation with privacy controls",
+          "Industry-specific terminology management"
+        ],
+        "pricing": "Enterprise pricing; contact sales",
+        "pricing_badge": "Paid",
+        "target_users": "Enterprises in regulated industries, translation vendors, governments",
+        "pros": [
+          "Strong on data privacy and industry customization",
+          "Enterprise deployment flexibility",
+          "Focused domain-model accuracy"
+        ],
+        "cons": [
+          "Enterprise pricing may be high for smaller teams",
+          "Less consumer-oriented than big public services"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tensorflow-serving",
+    "name": "TensorFlow Serving",
+    "category": "deployment",
+    "tag": "free",
+    "emoji": "🔧",
+    "desc": "A powerful AI tool.",
+    "page": "tool-tensorflow-serving.html",
+    "details": {
+      "logoUrl": "https://www.tensorflow.org/images/serving/serving-logo.png",
+      "visitUrl": "https://www.tensorflow.org/tfx/guide/serving",
+      "sections": {
+        "about_tensorflow_serving": "TensorFlow Serving is an open-source system for serving machine learning models in production. It's optimized for TensorFlow models but also supports other ML frameworks.",
+        "key_features": [
+          "High-performance model serving",
+          "REST and gRPC APIs",
+          "Supports multiple models & versions",
+          "A/B testing of models",
+          "Auto-reloading of updated models"
+        ],
+        "use_cases": [
+          "Real-time predictions",
+          "Deploying vision/NLP models",
+          "Online recommendation engines",
+          "A/B testing of ML models"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "ML engineers, DevOps, enterprise teams",
+        "pros": [
+          "Easy TensorFlow integration",
+          "Scalable serving",
+          "Flexible deployment options",
+          "Good for real-time inference"
+        ],
+        "cons": [
+          "Best suited for TensorFlow",
+          "Setup complexity for beginners"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tensorflow",
+    "name": "TensorFlow",
+    "category": "ml",
+    "tag": "open-source",
+    "emoji": "🔷",
+    "desc": "Google\\",
+    "page": "tool-tensorflow.html",
+    "details": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg",
+      "visitUrl": "https://www.tensorflow.org",
+      "sections": {
+        "about_tensorflow": "TensorFlow is one of the most widely used open-source machine learning frameworks developed by Google. It provides a comprehensive ecosystem for building and training machine learning and deep learning models. TensorFlow supports large-scale distributed training and is suitable for both research and production-level deployment.",
+        "key_features": [
+          "Wide support for deep learning and neural networks",
+          "Distributed training across GPUs and TPUs",
+          "TensorBoard for visualization and debugging",
+          "Integration with Keras for easy model building",
+          "Pre-trained models in TensorFlow Hub",
+          "Cross-platform support (desktop, mobile, cloud)"
+        ],
+        "use_cases": [
+          "Image recognition",
+          "Natural language processing",
+          "Speech recognition",
+          "Recommendation systems"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "Researchers, AI developers, data scientists, and engineers",
+        "pros": [
+          "Huge community support",
+          "Scalable for production workloads",
+          "Optimized for GPUs and TPUs",
+          "Flexible API"
+        ],
+        "cons": [
+          "Steep learning curve",
+          "Verbose syntax compared to PyTorch"
+        ]
+      }
+    }
+  },
+  {
+    "id": "textrazor",
+    "name": "TextRazor",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🧩",
+    "desc": "Deep text analysis API — entities, relations, topics and categories.",
+    "page": "tool-textrazor.html",
+    "details": {
+      "logoUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iMTAiIGZpbGw9IiNlZjQ0NDQiLz4KPHRleHQgeD0iNDAiIHk9IjM1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5UZXh0PC90ZXh0Pgo8dGV4dCB4PSI0MCIgeT0iNTAiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlJhem9yPC90ZXh0Pgo8L3N2Zz4K",
+      "visitUrl": "https://www.textrazor.com",
+      "sections": {
+        "about_textrazor": "TextRazor is a text analysis API focused on entity extraction, relation detection, and topic classification with customizable pipelines. It is popular with developers who want a powerful API for semantic analysis that can be embedded into content platforms, search engines, and knowledge management systems.",
+        "key_features": [
+          "Entity extraction, relation parsing, topic classification",
+          "Highly configurable analyzers & language support",
+          "API with per-request options and caching",
+          "On-premise/private deployment options (enterprise)"
+        ],
+        "use_cases": [
+          "Semantic enrichment for content search",
+          "Relation extraction for knowledge graphs",
+          "Topic tagging and content classification"
+        ],
+        "pricing": "Free tier with limited requests; paid tiers for higher volume",
+        "pricing_badge": "Freemium",
+        "target_users": "Developers, startups, content platforms, search teams",
+        "pros": [
+          "Rich semantic analysis features",
+          "Flexible configuration and enterprise options",
+          "Good developer APIs"
+        ],
+        "cons": [
+          "Usage-based costs at scale",
+          "Niche compared to major cloud offerings (less integrated ecosystem)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tidio",
+    "name": "Tidio",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "🎯",
+    "desc": "Live chat and AI chatbot platform for customer service and sales automation.",
+    "page": "tool-tidio.html",
+    "details": {
+      "logoUrl": "https://www.tidio.com/images/logo.svg",
+      "visitUrl": "https://www.tidio.com",
+      "sections": {
+        "about_tidio": "Tidio combines live chat and chatbot automation designed for e-commerce and SMBs. It offers pre-built bot templates for lead capture, FAQ automation, and order tracking, plus integrations with Shopify, WordPress, and other platforms. The focus is on easy setup for small teams to automate common customer interactions.",
+        "key_features": [
+          "Live chat + chatbot hybrid",
+          "E-commerce integrations (Shopify, WooCommerce)",
+          "Prebuilt templates for common flows",
+          "Multi-channel messaging and automation"
+        ],
+        "use_cases": [
+          "FAQ automation for online stores",
+          "Order status and tracking automation",
+          "Lead capture and chat-driven promotions"
+        ],
+        "pricing": "Free basic plan; paid tiers for more bots/concurrent chats",
+        "pricing_badge": "Freemium",
+        "target_users": "Small businesses, e-commerce shops, support teams",
+        "pros": [
+          "Quick deployment for small e-commerce stores",
+          "Combines human and bot chat seamlessly",
+          "Affordable tiers for SMBs"
+        ],
+        "cons": [
+          "Less suited for enterprise-grade complex workflows",
+          "Chatbot customization limited compared to developer platforms"
+        ]
+      }
+    }
+  },
+  {
+    "id": "torchserve",
+    "name": "TorchServe",
+    "category": "deployment",
+    "tag": "free",
+    "emoji": "🔧",
+    "desc": "TorchServe is an open-source model serving framework developed by AWS and PyTorch. It is designed for deploying PyTorch models at scale with support for multi-model hosting and REST APIs.",
+    "page": "tool-torchserve.html",
+    "details": {
+      "logoUrl": "https://pytorch.org/assets/images/torchserve-logo.png",
+      "visitUrl": "https://pytorch.org/serve",
+      "sections": {
+        "about_torchserve": "TorchServe is an open-source model serving framework developed by AWS and PyTorch. It is designed for deploying PyTorch models at scale with support for multi-model hosting and REST APIs.",
+        "key_features": [
+          "Multi-model serving",
+          "REST & gRPC APIs",
+          "Scalable deployments",
+          "Metrics for monitoring",
+          "Easy AWS integration"
+        ],
+        "use_cases": [
+          "Computer vision services",
+          "NLP-based APIs",
+          "Enterprise ML inference",
+          "Multi-model hosting"
+        ],
+        "pricing": "Open-source",
+        "pricing_badge": "Free",
+        "target_users": "PyTorch developers, enterprise AI teams",
+        "pros": [
+          "Native for PyTorch",
+          "Scales well on AWS",
+          "Built-in metrics & logging",
+          "Supports custom inference handlers"
+        ],
+        "cons": [
+          "PyTorch focused only",
+          "Requires configuration for scaling"
+        ]
+      }
+    }
+  },
+  {
+    "id": "writesonic",
+    "name": "Writesonic",
+    "category": "nlp",
+    "tag": "freemium",
+    "emoji": "⚡",
+    "desc": "SEO-friendly AI writer with SurferSEO integration for blogs and landing pages.",
+    "page": "tool-writesonic.html",
+    "details": {
+      "logoUrl": "https://writesonic.com/logo.svg",
+      "visitUrl": "https://writesonic.com",
+      "sections": {
+        "about_writesonic": "Writesonic is an AI writing platform geared to marketers and content creators, with features for SEO-optimized blog writing, ad generation, and landing pages. It offers integrations with SEO tools (e.g., SurferSEO) and focuses on producing longer content as well as short-form marketing text.",
+        "key_features": [
+          "Long-form content generation and templates",
+          "SEO-focused integrations and tools",
+          "Ad & social copy generators",
+          "Multi-language support"
+        ],
+        "use_cases": [
+          "Writing SEO-friendly blog posts drafts",
+          "Generating product descriptions and landing page copy",
+          "Creating A/B test variants for ad copy"
+        ],
+        "pricing": "Free tier with limited credits; paid plans for increased usage",
+        "pricing_badge": "Freemium",
+        "target_users": "Content marketers, SEO teams, agencies, freelancers",
+        "pros": [
+          "Good long-form generation capability with SEO integrations",
+          "Versatile templates for multiple copy needs",
+          "Team plans available for collaboration"
+        ],
+        "cons": [
+          "Quality still requires editorial oversight",
+          "Credits/usage model can be confusing for some users"
+        ]
+      }
+    }
+  }
+]

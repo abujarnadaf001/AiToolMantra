@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><style>
+  /* body part*/
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url(https://clickup.com/blog/wp-content/uploads/2024/01/image-83.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* margin: 0; Removed as it's often handled by browser defaults or resets */
+}
+
+/* header part */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  backdrop-filter: blur(8px); /* Apply blur to the background */
+  -webkit-backdrop-filter: blur(8px); /* For Safari support */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5); /* Optional border for a subtle effect */
+}
+
+.nav-links a {
+  color: #1e40af;
+  font-weight: 600;
+  font-size: large;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  color: #1e3a8a;
+}
+
+.profile {
+  color: white;
+  font-weight: 600;
+  font-size: large;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.icon-container {
+  background-color: #bfdbfe;
+  padding: 0.5rem;
+  border-radius: 9999px;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  color: #1e40af;
+}
+
+.main-container {
+  display: flex; /* This class is on a non-existent element in the provided HTML. Consider if it's needed. */
+}
+
+/*logo part */
+.logo {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 1.8rem;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+}
+
+.logo .ai {
+  color: #ff8336; /* Purple */
+}
+
+.logo .tool {
+  color: #5e8ecd; /* Teal green */
+  margin-left: 4px;
+}
+
+.logo .mantra {
+  color: #37bf33; /* Yellow/Orange */
+  margin-left: 4px;
+}
+
+/* Available Tools Section */
+.available-tools {
+  padding: 4rem 2rem;
+  background-color: rgba(255, 255, 255, 0.518);
+}
+
+/* Category Buttons */
+.open-buttons {
+  margin-top: 3rem; /* Adjusted from -10rem on .open-btn to container */
+  margin-bottom: 30px;
+  text-align: center; /* Center the buttons */
+}
+
+.open-btn {
+  background-color: #15b1fa;
+  color: white;
+  padding: 0.95rem 1.5rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  text-decoration: none; /* Ensure links look like buttons */
+  display: inline-block; /* Allow padding and margin on anchor tags */
+  margin: 0 10px; /* Add some space between buttons */
+}
+
+.open-btn:hover {
+  background-color: #0850ea;
+}
+
+.tools-heading {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1e40af;
+  margin-bottom: 3rem;
+}
+
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.tool-card {
+  background-color: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  text-align: center;
+}
+
+
+.tool-image {
+  background-color: #dbeafe;
+  height: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.tool-image img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.tool-image img { /* Style the image itself within the container */
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain; /* Ensures the image scales well within its container */
+  border-radius: 0.5rem; /* Match parent's border-radius if desired */
+}
+
+.tool-name {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #1e40af;
+}
+
+.tool-description {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #6b7280;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 3rem;
+}
+
+.pagination a {
+  color: #1e40af;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pagination a:hover {
+  text-decoration: underline;
+}
+
+.pagination button {
+  background-color: #1e40af;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+}
+
+.pagination button:hover {
+  background-color: #1e3a8a;
+}
+
+/* footer part*/
+.footer {
+  background-color: #1e3a8a;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  /* margin-bottom: -20px; Removed, consider parent spacing if needed */
+}
+
+.footer a {
+  text-decoration: underline;
+  color: white;
+}
+</style>
+  <meta charset="UTF-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <title>AiToolMantra</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo">
+      <span class="ai">Ai</span><span class="tool">Tool</span><span class="mantra">Mantra</span>
+    </div>
+    <div class="nav-links">
+      <a href="#">Home</a>
+      <a href="#">Updates</a>
+      <a href="#">Sign</a>
+      <a href="#">Support</a>
+      <a href="#">Logout</a>
+    </div>
+    <div class="profile">
+      <div class="icon-container">
+        <svg class="icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M5.121 17.804A13.937 13.937 0 0012 20c3.315 0 6.352-1.126 8.879-3.004m-1.758-3.758A9 9 0 103.88 16.242M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+        </svg>
+      </div>
+      <span><a href="#">Profile</a></span>
+    </div>
+  </nav>
+
+  <main>
+    <section class="available-tools">
+      <h1 class="tools-heading">Available Tools</h1>
+
+      <div class="open-buttons">
+        <a href="https://prismatic-jalebi-8fbb32.netlify.app/" class="open-btn">Open Source</a>
+        <a href="#" class="open-btn">Paid Source</a>
+      </div>
+
+      <div class="tools-grid">
+        <div class="tool-card">
+          <div class="tool-image">
+  <a href="https://monkeylearn.com/" target="_blank">
+    <img src="https://www.insightplatforms.com/wp-content/uploads/2018/07/monkeylearn_logo.png" />
+  </a>
+</div>
+           
+          <h2 class="tool-name">Monkey Learn</h2>
+          <p class="tool-description">An AI platform that provides various text analysis tools, including sentiment analysis, keyword extraction, and text classification. It allows users to build custom text analysis models without coding.
+.</p>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-image">
+            <a href="https://www.ibm.com/cloud/watson-natural-language-understanding" target="_blank">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDgzYZ7IrNt-pftgrYIBfX5IhWk7wBqCAZg&s">
+            </a>
+          </div>
+          <h2 class="tool-name">IBM Watson Natural Language Understanding</h2>
+          <p class="tool-description">Part of the IBM Watson AI suite, this tool offers capabilities for advanced text analysis, including sentiment analysis, entity extraction, keyword analysis, and categorization from various text sources..</p>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-image">
+            <a href="https://www.copy.ai/" target="_blank">
+              <img src="https://miro.medium.com/v2/resize:fit:1400/0*zx7utUDbJWk8drNC">
+            </a>
+          </div>
+          <h2 class="tool-name">Copy ai</h2>
+          <p class="tool-description">An AI-powered content generation tool that helps users write various forms of copy, including blog posts, social media captions, email subject lines, and ad copy. It offers a wide range of templates and focuses on marketing-related content.
+</p>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-image">
+            <a href="https://writesonic.com/" target="_blank">
+              <img src="https://pbs.twimg.com/profile_images/1517412056907272192/_cH9KL9__400x400.jpg">
+            </a>
+          </div>
+          <h2 class="tool-name">Writesonic</h2>
+          <p class="tool-description">An AI writing assistant that helps generate high-quality articles, blog posts, landing pages, ad copy, and product descriptions in seconds. It aims to boost content creation efficiency for marketers, agencies, and e-commerce businesses.
+</p>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-image">
+            <a href="https://www.deepl.com/translator" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/DeepL_logo.svg">
+            </a>
+          </div>
+          <h2 class="tool-name">Deep Translator</h2>
+          <p class="tool-description">Known for its high-quality, nuanced translations, especially for European languages. It uses deep learning to provide more accurate and natural-sounding translations than many competitors.
+</p>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-image">
+            <a href="https://rytr.me/" target="_blank">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsGsvOcjzROwt4z9ZGo-wk_qNYcQ9IvVRCw&s">
+            </a>
+          </div>
+          <h2 class="tool-name">Rytr</h2>
+          <p class="tool-description">An AI writing assistant that helps you generate content for various use cases, from emails and social media posts to blog articles and ad copy, using over 30 templates and 30+ languages.
+</p>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-image">
+            <a href="https://translator.microsoft.com/" target="_blank">
+              <img src="https://news.microsoft.com/wp-content/uploads/prod/sites/45/2023/10/Translator-logo.jpg">
+            </a>
+          </div>
+          <h2 class="tool-name">Microsoft Translator</h2>
+          <p class="tool-description"> A cloud-based translation service that supports various languages for text and speech translation. It offers integration through an API for businesses and developers.
+</p>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-image">
+            <a href="https://translate.google.com/" target="_blank">
+              <img src="https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA">
+            </a>
+          </div>
+          <h2 class="tool-name">Google Translate</h2>
+          <p class="tool-description"> A widely used free translation service by Google that instantly translates text, documents, and websites from one language into another. It supports over 130 languages.
+</p>
+        </div>
+      </div>
+
+      <div class="pagination">
+        <span>Page:</span>
+        <a href="#">1</a>
+        <a href="#">2</a>
+        <a href="#">3</a>
+        <a href="#">4</a>
+        <a href="#">5</a>
+        <a href="#">6</a>
+        <span>...</span>
+        <button>Next Page</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© 2025 AI Tools Hub. All rights reserved.</p>
+    <p><a href="#">Terms & Policy</a> | <a href="#">Contact Us</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
