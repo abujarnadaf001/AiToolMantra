@@ -60,7 +60,7 @@ export async function POST(req: Request) {
   } catch (error: any) {
     console.error("Integration error:", error);
     if (error instanceof z.ZodError) {
-      return NextResponse.json({ error: "Validation failed", details: error.errors }, { status: 400 });
+      return NextResponse.json({ error: "Validation failed", details: (error as any).errors }, { status: 400 });
     }
     return NextResponse.json({ error: error.message || "Internal Server Error" }, { status: 500 });
   }

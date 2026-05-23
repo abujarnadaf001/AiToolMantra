@@ -167,9 +167,13 @@ export default function AdminAgentsPage() {
                   <strong>{toolData.name}</strong> was successfully parsed and added to the directory.
                 </p>
                 <div className="flex gap-4">
-                  <Button variant="outline" asChild className="border-green-500/30 text-green-400 hover:bg-green-500/20">
-                    <a href={`/tool/${toolData.id}`} target="_blank">View Live Page</a>
-                  </Button>
+                  <a 
+                    href={`/tool/${toolData.id}`} 
+                    target="_blank"
+                    className={`inline-flex items-center justify-center rounded-lg border border-green-500/30 bg-transparent px-4 py-2 text-sm font-medium text-green-400 transition-colors hover:bg-green-500/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-green-400 disabled:pointer-events-none disabled:opacity-50`}
+                  >
+                    View Live Page
+                  </a>
                 </div>
               </div>
             </CardContent>
