@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ AURA AI (AiToolMantra)</h1>
+  <h1>⚡ AiToolMantra</h1>
   <p><strong>The Ultimate Directory for Discovering AI Tools</strong></p>
   <p>A cinematic, high-performance web application designed to help users search, filter, and discover the best AI solutions across multiple categories—powered by autonomous AI agents.</p>
 </div>
