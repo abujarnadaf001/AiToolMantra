@@ -10,7 +10,7 @@ export function VideoBackground() {
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0 opacity-80"
       >
-        <source src="/dragon.webm" type="video/webm" />
+        <source src={process.env.NEXT_PUBLIC_VIDEO_URL || "/dragon.webm"} type="video/webm" />
       </video>
 
       {/* Dark overlay gradient to ensure your white text remains perfectly readable against bright fire */}
